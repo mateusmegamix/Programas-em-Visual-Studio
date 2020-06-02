@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="55a362ad2bba49f9b1dc2800bbe3f1e1" Name="Diagram1">
+        <EntityTypeShape EntityType="alextheodoroModel.appCadastroUsuario" Width="1.5" PointX="5.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="alextheodoroModel.appLogin" Width="1.5" PointX="8" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="alextheodoroModel.BuracoReg" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="alextheodoroModel.ConsultaRegistros01" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="alextheodoroModel.FocosReg" Width="1.5" PointX="0.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="alextheodoroModel.IntoxicacaoReg" Width="1.5" PointX="0.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="alextheodoroModel.VazamentoReg" Width="1.5" PointX="0.75" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="alextheodoroModel.ViolenciaReg" Width="1.5" PointX="0.75" PointY="16" IsExpanded="true" />
+        <AssociationConnector Association="alextheodoroModel.FK_appLogin_appCadastroUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="alextheodoroModel.FK_ConsultaRegistros01_BuracoReg1" ManuallyRouted="false" />
+        <AssociationConnector Association="alextheodoroModel.FK_ConsultaRegistros01_FocosReg1" ManuallyRouted="false" />
+        <AssociationConnector Association="alextheodoroModel.FK_ConsultaRegistros01_IntoxicacaoReg" ManuallyRouted="false" />
+        <AssociationConnector Association="alextheodoroModel.FK_ConsultaRegistros01_VazamentoReg1" ManuallyRouted="false" />
+        <AssociationConnector Association="alextheodoroModel.FK_ConsultaRegistros01_ViolenciaReg" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="alextheodoroModel.Evento" Width="1.5" PointX="3.375" PointY="5.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

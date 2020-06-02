@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="alextheodoroModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="appCadastroUsuario">
+    <Key>
+      <PropertyRef Name="appLogin" />
+    </Key>
+    <Property Name="appLogin" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="appNome" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="appSenha" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="appConfirmar" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="appEmail" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="appCelular" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="appLogin">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Login" Type="int" Nullable="false" />
+    <Property Name="Senha" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BuracoReg">
+    <Key>
+      <PropertyRef Name="RegistroBuraco" />
+    </Key>
+    <Property Name="RegistroBuraco" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FotoBur" Type="image" />
+    <Property Name="DescricaoBur" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="RuaBur" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="CidadeBur" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="BairroBur" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="DataBuracoBur" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ConsultaRegistros01">
+    <Key>
+      <PropertyRef Name="RegistroID" />
+    </Key>
+    <Property Name="Registros" Type="int" Nullable="false" />
+    <Property Name="RegistroID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Rua" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Cidade" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Bairro" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Data" Type="date" Nullable="false" />
+    <Property Name="Imagem" Type="image" />
+    <Property Name="Descricao" Type="varchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Evento">
+    <Key>
+      <PropertyRef Name="RegistroEvento" />
+    </Key>
+    <Property Name="RegistroEvento" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Localizacaof" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Ruaf" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Bairrof" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cidadef" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Uff" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cepf" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Dataf" Type="date" Nullable="false" />
+    <Property Name="DescricaoEvento" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Valorf" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TipoF" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Telefone" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FocosReg">
+    <Key>
+      <PropertyRef Name="RegistroFocos" />
+    </Key>
+    <Property Name="RegistroFocos" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FotoFoc" Type="image" />
+    <Property Name="DataFocos" Type="date" Nullable="false" />
+    <Property Name="RuaFoc" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="CidadeFoc" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="BairroFoc" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="DescricaoFoc" Type="varchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IntoxicacaoReg">
+    <Key>
+      <PropertyRef Name="RegistroIntoxicacao" />
+    </Key>
+    <Property Name="RegistroIntoxicacao" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FotoInt" Type="image" />
+    <Property Name="DataInt" Type="date" Nullable="false" />
+    <Property Name="RuaInt" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="CidadeInt" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="BairroInt" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="DescricaoInt" Type="varchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="VazamentoReg">
+    <Key>
+      <PropertyRef Name="RegistroVazamento" />
+    </Key>
+    <Property Name="RegistroVazamento" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FotoVaz" Type="image" />
+    <Property Name="DataVazamento" Type="date" Nullable="false" />
+    <Property Name="CidadeVaz" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="BairroVaz" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="RuaVaz" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="DescricaoVaz" Type="varchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ViolenciaReg">
+    <Key>
+      <PropertyRef Name="RegistroViolencia" />
+    </Key>
+    <Property Name="RegistroViolencia" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FotoVio" Type="image" />
+    <Property Name="DataViolencia" Type="date" Nullable="false" />
+    <Property Name="RuaVio" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="CidadeVio" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="BairroVio" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="DescricaoVio" Type="varchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_appLogin_appCadastroUsuario">
+    <End Role="appCadastroUsuario" Type="Self.appCadastroUsuario" Multiplicity="1" />
+    <End Role="appLogin" Type="Self.appLogin" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="appCadastroUsuario">
+        <PropertyRef Name="appLogin" />
+      </Principal>
+      <Dependent Role="appLogin">
+        <PropertyRef Name="Login" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ConsultaRegistros01_BuracoReg1">
+    <End Role="BuracoReg" Type="Self.BuracoReg" Multiplicity="1" />
+    <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BuracoReg">
+        <PropertyRef Name="RegistroBuraco" />
+      </Principal>
+      <Dependent Role="ConsultaRegistros01">
+        <PropertyRef Name="Registros" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ConsultaRegistros01_FocosReg1">
+    <End Role="FocosReg" Type="Self.FocosReg" Multiplicity="1" />
+    <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FocosReg">
+        <PropertyRef Name="RegistroFocos" />
+      </Principal>
+      <Dependent Role="ConsultaRegistros01">
+        <PropertyRef Name="Registros" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ConsultaRegistros01_IntoxicacaoReg">
+    <End Role="IntoxicacaoReg" Type="Self.IntoxicacaoReg" Multiplicity="1" />
+    <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IntoxicacaoReg">
+        <PropertyRef Name="RegistroIntoxicacao" />
+      </Principal>
+      <Dependent Role="ConsultaRegistros01">
+        <PropertyRef Name="Registros" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ConsultaRegistros01_VazamentoReg1">
+    <End Role="VazamentoReg" Type="Self.VazamentoReg" Multiplicity="1" />
+    <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VazamentoReg">
+        <PropertyRef Name="RegistroVazamento" />
+      </Principal>
+      <Dependent Role="ConsultaRegistros01">
+        <PropertyRef Name="Registros" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ConsultaRegistros01_ViolenciaReg">
+    <End Role="ViolenciaReg" Type="Self.ViolenciaReg" Multiplicity="1" />
+    <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ViolenciaReg">
+        <PropertyRef Name="RegistroViolencia" />
+      </Principal>
+      <Dependent Role="ConsultaRegistros01">
+        <PropertyRef Name="Registros" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="alextheodoroModelStoreContainer">
+    <EntitySet Name="appCadastroUsuario" EntityType="Self.appCadastroUsuario" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="appLogin" EntityType="Self.appLogin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BuracoReg" EntityType="Self.BuracoReg" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ConsultaRegistros01" EntityType="Self.ConsultaRegistros01" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Evento" EntityType="Self.Evento" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FocosReg" EntityType="Self.FocosReg" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IntoxicacaoReg" EntityType="Self.IntoxicacaoReg" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VazamentoReg" EntityType="Self.VazamentoReg" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ViolenciaReg" EntityType="Self.ViolenciaReg" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_appLogin_appCadastroUsuario" Association="Self.FK_appLogin_appCadastroUsuario">
+      <End Role="appCadastroUsuario" EntitySet="appCadastroUsuario" />
+      <End Role="appLogin" EntitySet="appLogin" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ConsultaRegistros01_BuracoReg1" Association="Self.FK_ConsultaRegistros01_BuracoReg1">
+      <End Role="BuracoReg" EntitySet="BuracoReg" />
+      <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ConsultaRegistros01_FocosReg1" Association="Self.FK_ConsultaRegistros01_FocosReg1">
+      <End Role="FocosReg" EntitySet="FocosReg" />
+      <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ConsultaRegistros01_IntoxicacaoReg" Association="Self.FK_ConsultaRegistros01_IntoxicacaoReg">
+      <End Role="IntoxicacaoReg" EntitySet="IntoxicacaoReg" />
+      <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ConsultaRegistros01_VazamentoReg1" Association="Self.FK_ConsultaRegistros01_VazamentoReg1">
+      <End Role="VazamentoReg" EntitySet="VazamentoReg" />
+      <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ConsultaRegistros01_ViolenciaReg" Association="Self.FK_ConsultaRegistros01_ViolenciaReg">
+      <End Role="ViolenciaReg" EntitySet="ViolenciaReg" />
+      <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

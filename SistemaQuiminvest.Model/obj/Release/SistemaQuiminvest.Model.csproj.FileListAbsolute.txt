@@ -1,0 +1,13 @@
+C:\Estagiario\SistemaQuiminvest.Model\bin\Release\SistemaQuiminvest.Model.exe.config
+C:\Estagiario\SistemaQuiminvest.Model\bin\Release\SistemaQuiminvest.Model.exe
+C:\Estagiario\SistemaQuiminvest.Model\bin\Release\SistemaQuiminvest.Model.pdb
+C:\Estagiario\SistemaQuiminvest.Model\bin\Release\EntityFramework.dll
+C:\Estagiario\SistemaQuiminvest.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Estagiario\SistemaQuiminvest.Model\bin\Release\EntityFramework.xml
+C:\Estagiario\SistemaQuiminvest.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Estagiario\SistemaQuiminvest.Model\obj\Release\SistemaQuiminvest.Model.csprojAssemblyReference.cache
+C:\Estagiario\SistemaQuiminvest.Model\obj\Release\SistemaQuiminvest.Model.Properties.Resources.resources
+C:\Estagiario\SistemaQuiminvest.Model\obj\Release\SistemaQuiminvest.Model.csproj.GenerateResource.cache
+C:\Estagiario\SistemaQuiminvest.Model\obj\Release\SistemaQuiminvest.Model.csproj.CopyComplete
+C:\Estagiario\SistemaQuiminvest.Model\obj\Release\SistemaQuiminvest.Model.exe
+C:\Estagiario\SistemaQuiminvest.Model\obj\Release\SistemaQuiminvest.Model.pdb

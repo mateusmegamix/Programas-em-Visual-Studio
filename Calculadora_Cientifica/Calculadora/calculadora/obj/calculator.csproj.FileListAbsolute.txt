@@ -1,0 +1,23 @@
+d:\rajshree\calculator\calculator\obj\Debug\ResolveAssemblyReference.cache
+d:\rajshree\calculator\calculator\obj\Debug\calculator.Form1.resources
+d:\rajshree\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+d:\rajshree\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+d:\rajshree\calculator\calculator\bin\Debug\calculator.exe
+d:\rajshree\calculator\calculator\bin\Debug\calculator.pdb
+d:\rajshree\calculator\calculator\obj\Debug\calculator.exe
+d:\rajshree\calculator\calculator\obj\Debug\calculator.pdb
+D:\rajshree\calculator\calculator\bin\Debug\usercontrol1.dll
+D:\rajshree\calculator\calculator\bin\Debug\usercontrol1.pdb
+d:\rajshree\calculator\calculator\bin\Debug\control1.dll
+d:\rajshree\calculator\calculator\bin\Debug\control1.pdb
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.exe
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.pdb
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\calculator.exe
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\calculator.pdb
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\control1.dll
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\usercontrol1.pdb
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\control1.pdb
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache

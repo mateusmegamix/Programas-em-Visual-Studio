@@ -1,0 +1,7 @@
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\control1\control1\bin\Debug\control1.dll
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\control1\control1\bin\Debug\control1.pdb
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\control1\control1\obj\Debug\control1.Properties.Resources.resources
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\control1\control1\obj\Debug\control1.UserControl1.resources
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\control1\control1\obj\Debug\control1.csproj.GenerateResource.Cache
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\control1\control1\obj\Debug\control1.dll
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\control1\control1\obj\Debug\control1.pdb

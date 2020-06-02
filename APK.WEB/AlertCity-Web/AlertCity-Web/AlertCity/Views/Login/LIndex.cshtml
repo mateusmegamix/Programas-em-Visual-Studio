@@ -1,0 +1,39 @@
+﻿@model AlertCity.Models.Usuario
+
+@{
+    ViewBag.Title = "";
+    Layout = null;
+}
+
+<head aling="center">
+    <title>Login</title>
+</head>
+
+<body background="~/Imagem/sistemasinfo.jpg" style="animation-delay:initial;">
+
+    <link href="~/Content/Log.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+
+    @using (@Html.BeginForm("LIndex", "Login", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken();
+        <div aling="center">
+            <div class="loginbox">
+                <h1 class="text-center">Login</h1>
+                <h2>Email</h2>
+                @Html.LabelFor(a => a.appEmail)
+                @Html.TextBoxFor(a => a.appEmail)
+                @Html.ValidationMessageFor(a => a.appEmail)
+                <h2>Senha</h2>
+                @Html.LabelFor(a => a.appSenha)
+                @Html.PasswordFor(a => a.appSenha)
+                @Html.ValidationMessageFor(a => a.appSenha)
+                <input href="~/Principal/PIndex" type="submit" value="Acessar" />
+                <br>
+                <a href="#" target="_blank">@Html.ActionLink("Tem cadastro? Cadastre-se!", "Index", "Usuario")</a>
+                <br />
+                <a class="admin" href="#" target="_blank">@Html.ActionLink("Administrador", "PIndex", "Principal")</a>
+            </div>
+        </div>
+    }
+</body>

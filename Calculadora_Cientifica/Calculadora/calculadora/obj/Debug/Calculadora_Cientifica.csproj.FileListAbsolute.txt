@@ -1,0 +1,23 @@
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\bin\Debug\Calculadora_Cientifica.exe
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\bin\Debug\Calculadora_Cientifica.pdb
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\bin\Debug\control1.dll
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\bin\Debug\control1.pdb
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\bin\Debug\usercontrol1.pdb
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.csprojResolveAssemblyReference.cache
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\calculator.Form1.resources
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.Properties.Resources.resources
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.csproj.GenerateResource.Cache
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.exe
+C:\_C#\Calculadora_Cientifica\scientific calculator\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.pdb
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\bin\Debug\Calculadora_Cientifica.exe
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\bin\Debug\Calculadora_Cientifica.pdb
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\bin\Debug\control1.dll
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\bin\Debug\control1.pdb
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\bin\Debug\usercontrol1.pdb
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.csprojAssemblyReference.cache
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\calculator.Form1.resources
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.Properties.Resources.resources
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.csproj.GenerateResource.cache
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.csproj.CopyComplete
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.exe
+C:\Users\Mateus\Downloads\Calculadora_Cientifica\Calculadora\calculadora\obj\Debug\Calculadora_Cientifica.pdb

@@ -1,0 +1,1070 @@
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\ApplicationInsights.config
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\AlertCity.dll.config
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\AlertCity.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\AlertCity.pdb
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\csc.exe
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\csc.exe.config
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\csc.rsp
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\csi.exe
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\csi.exe.config
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\csi.rsp
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.AppContext.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Console.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\vbc.exe
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\vbc.exe.config
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\vbc.rsp
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\AlertCity.Model.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Antlr3.Runtime.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\EntityFramework.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AI.Web.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Newtonsoft.Json.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.Helpers.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.Mvc.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.Optimization.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.Razor.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.WebPages.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\WebGrease.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\AlertCity.Model.pdb
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\AlertCity.Model.dll.config
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\EntityFramework.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.Helpers.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.Mvc.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.Optimization.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.Razor.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.WebPages.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Newtonsoft.Json.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Antlr3.Runtime.pdb
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.AI.Web.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\obj\Debug\AlertCity.csprojAssemblyReference.cache
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\obj\Debug\AlertCity.csproj.CoreCompileInputs.cache
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\obj\Debug\AlertCity.csproj.CopyComplete
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\obj\Debug\AlertCity.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity\obj\Debug\AlertCity.pdb
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\ApplicationInsights.config
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\AlertCity.dll.config
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\AlertCity.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\AlertCity.pdb
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\csc.exe
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\csc.exe.config
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\csc.rsp
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\csi.exe
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\csi.exe.config
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\csi.rsp
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.AppContext.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Console.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe.config
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\vbc.rsp
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\EntityFramework.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.Helpers.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.Mvc.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.Optimization.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.Razor.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.WebPages.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\WebGrease.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\AlertCity.Model.pdb
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll.config
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\EntityFramework.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.Helpers.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.Mvc.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.Optimization.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.Razor.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.WebPages.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.pdb
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csprojAssemblyReference.cache
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CoreCompileInputs.cache
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CopyComplete
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\obj\Debug\AlertCity.dll
+C:\Users\Lab1\source\repos\AlertCity-Web\AlertCity\obj\Debug\AlertCity.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\ApplicationInsights.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\AlertCity.dll.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\AlertCity.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\AlertCity.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\csc.exe
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\csc.exe.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\csc.rsp
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\csi.exe
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\csi.exe.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\csi.rsp
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.AppContext.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Console.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\vbc.rsp
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\EntityFramework.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.Helpers.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.Mvc.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.Optimization.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.Razor.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.WebPages.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\WebGrease.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\AlertCity.Model.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\EntityFramework.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.Helpers.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.Mvc.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.Optimization.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.Razor.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.WebPages.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CopyComplete
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\obj\Debug\AlertCity.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity\obj\Debug\AlertCity.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\ApplicationInsights.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.rsp
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.rsp
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.AppContext.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Console.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.rsp
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\WebGrease.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CopyComplete
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.pdb
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\ApplicationInsights.config
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll.config
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.pdb
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe.config
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.rsp
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe.config
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.rsp
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.AppContext.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Console.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe.config
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.rsp
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\WebGrease.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.pdb
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll.config
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.pdb
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CopyComplete
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\ApplicationInsights.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.rsp
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.rsp
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.AppContext.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Console.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.rsp
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\WebGrease.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CopyComplete
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\ApplicationInsights.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.rsp
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.rsp
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.AppContext.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Console.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.rsp
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\WebGrease.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csprojAssemblyReference.cache
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CopyComplete
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\ApplicationInsights.config
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll.config
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe.config
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.rsp
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe.config
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.rsp
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.AppContext.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Console.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe.config
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.rsp
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\WebGrease.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll.config
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csprojAssemblyReference.cache
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CopyComplete
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\ApplicationInsights.config
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe.config
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.rsp
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe.config
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.rsp
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.AppContext.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Console.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe.config
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.rsp
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\WebGrease.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll.config
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csprojAssemblyReference.cache
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CopyComplete
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll.config
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\ApplicationInsights.config
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll.config
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.pdb
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.exe.config
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csc.rsp
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.exe.config
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\csi.rsp
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.AppContext.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Console.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.exe.config
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\vbc.rsp
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\WebGrease.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.pdb
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\AlertCity.Model.dll.config
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\EntityFramework.SqlServer.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Helpers.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Mvc.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Optimization.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.Razor.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Newtonsoft.Json.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Antlr3.Runtime.pdb
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.AI.Web.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.csproj.CopyComplete
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.dll
+C:\Users\Pichau\Downloads\trabalho\trabalho\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity\obj\Debug\AlertCity.pdb

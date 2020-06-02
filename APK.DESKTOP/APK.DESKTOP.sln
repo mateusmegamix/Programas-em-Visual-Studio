@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APK.DESKTOP.VIEW", "APK.DESKTOP.VIEW\APK.DESKTOP.VIEW.csproj", "{A6720E03-FD6F-448F-9FB8-8F63FA164A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APK.DESKTOP.MODEL", "APK.DESKTOP.MODEL\APK.DESKTOP.MODEL.csproj", "{D26C50C8-B4E4-4E97-812C-6CE76CA8D47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6720E03-FD6F-448F-9FB8-8F63FA164A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6720E03-FD6F-448F-9FB8-8F63FA164A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6720E03-FD6F-448F-9FB8-8F63FA164A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6720E03-FD6F-448F-9FB8-8F63FA164A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26C50C8-B4E4-4E97-812C-6CE76CA8D47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26C50C8-B4E4-4E97-812C-6CE76CA8D47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26C50C8-B4E4-4E97-812C-6CE76CA8D47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26C50C8-B4E4-4E97-812C-6CE76CA8D47A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B599447F-FF5D-46AB-B73A-6111213F535B}
+	EndGlobalSection
+EndGlobal

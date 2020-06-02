@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tccModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CadastroCliente">
+    <Key>
+      <PropertyRef Name="CodigoCliente" />
+    </Key>
+    <Property Name="Nome" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Cpf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Rua" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Bairro" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Cidade" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="TipoEvento" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Idade" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Descricao" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="Sexo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="DataNasc" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Cnpj" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CodigoCliente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmailCliente" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="SenhaCliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ConfCliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="CadastroFesta">
+    <Key>
+      <PropertyRef Name="CodigoFesta" />
+    </Key>
+    <Property Name="CodigoFesta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fotof" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Localizacaof" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Ruaf" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Bairrof" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Cidadef" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Uff" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Cepf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NomeCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Dataf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DescricaoEvento" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="Valorf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Lotef" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="DescricaoCliente" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="ReferenciaF" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="TipoF" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Consulta" Relationship="Self.FK_Consulta_CadastroFesta" FromRole="CadastroFesta" ToRole="Consulta" />
+  </EntityType>
+  <EntityType Name="CadastroHotel">
+    <Key>
+      <PropertyRef Name="CodigoHotel" />
+    </Key>
+    <Property Name="CodigoHotel" Type="Int32" Nullable="false" />
+    <Property Name="FotoHotel" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Ruah" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Bairroh" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Cidadeh" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Ufh" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DescricaoHotel" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="NomeCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="DescricaoCliente" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="Categoria" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Valorh" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LocalizacaoH" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="ReferenciaH" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Consulta" Relationship="Self.FK_Consulta_CadastroHotel" FromRole="CadastroHotel" ToRole="Consulta" />
+  </EntityType>
+  <EntityType Name="CadastroJogo">
+    <Key>
+      <PropertyRef Name="CodigoJogo" />
+    </Key>
+    <Property Name="CodigoJogo" Type="Int32" Nullable="false" />
+    <Property Name="FotoJ" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="LocalizacaoJ" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="RuaJ" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Bairroj" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Cidadej" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Ufj" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="QtdPessoas" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Dataj" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="AddMembrosj" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DescricaoJ" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="Valorj" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="AddObjeto" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="TipoJ" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Consulta" Relationship="Self.FK_Consulta_CadastroJogo" FromRole="CadastroJogo" ToRole="Consulta" />
+  </EntityType>
+  <EntityType Name="CadastroUsuario">
+    <Key>
+      <PropertyRef Name="CodigoUsuario" />
+    </Key>
+    <Property Name="CodigoUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NomeUsuario" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Sexo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="SenhaUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ConfSenha" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FotoUsuario" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="DataNascUsua" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Consulta">
+    <Key>
+      <PropertyRef Name="CodigoConsulta" />
+    </Key>
+    <Property Name="FotoCons" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="DescricaoCons" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="CodigoConsulta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LocalizacaoCons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="RuaCons" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="BairroCons" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="CidadeCons" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="UfCons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DataCons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ValorCons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FotoClienteCons" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="DescricaoClienteCons" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="TipoEventoCons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DescricaoGeral" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="Registro" Type="Int32" />
+    <NavigationProperty Name="CadastroFesta" Relationship="Self.FK_Consulta_CadastroFesta" FromRole="Consulta" ToRole="CadastroFesta" />
+    <NavigationProperty Name="CadastroHotel" Relationship="Self.FK_Consulta_CadastroHotel" FromRole="Consulta" ToRole="CadastroHotel" />
+    <NavigationProperty Name="CadastroJogo" Relationship="Self.FK_Consulta_CadastroJogo" FromRole="Consulta" ToRole="CadastroJogo" />
+  </EntityType>
+  <Association Name="FK_Consulta_CadastroFesta">
+    <End Role="CadastroFesta" Type="Self.CadastroFesta" Multiplicity="0..1" />
+    <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CadastroFesta">
+        <PropertyRef Name="CodigoFesta" />
+      </Principal>
+      <Dependent Role="Consulta">
+        <PropertyRef Name="Registro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Consulta_CadastroHotel">
+    <End Role="CadastroHotel" Type="Self.CadastroHotel" Multiplicity="0..1" />
+    <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CadastroHotel">
+        <PropertyRef Name="CodigoHotel" />
+      </Principal>
+      <Dependent Role="Consulta">
+        <PropertyRef Name="Registro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Consulta_CadastroJogo">
+    <End Role="CadastroJogo" Type="Self.CadastroJogo" Multiplicity="0..1" />
+    <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CadastroJogo">
+        <PropertyRef Name="CodigoJogo" />
+      </Principal>
+      <Dependent Role="Consulta">
+        <PropertyRef Name="Registro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="tccEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CadastroCliente" EntityType="Self.CadastroCliente" />
+    <EntitySet Name="CadastroFesta" EntityType="Self.CadastroFesta" />
+    <EntitySet Name="CadastroHotel" EntityType="Self.CadastroHotel" />
+    <EntitySet Name="CadastroJogo" EntityType="Self.CadastroJogo" />
+    <EntitySet Name="CadastroUsuario" EntityType="Self.CadastroUsuario" />
+    <EntitySet Name="Consulta" EntityType="Self.Consulta" />
+    <AssociationSet Name="FK_Consulta_CadastroFesta" Association="Self.FK_Consulta_CadastroFesta">
+      <End Role="CadastroFesta" EntitySet="CadastroFesta" />
+      <End Role="Consulta" EntitySet="Consulta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Consulta_CadastroHotel" Association="Self.FK_Consulta_CadastroHotel">
+      <End Role="CadastroHotel" EntitySet="CadastroHotel" />
+      <End Role="Consulta" EntitySet="Consulta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Consulta_CadastroJogo" Association="Self.FK_Consulta_CadastroJogo">
+      <End Role="CadastroJogo" EntitySet="CadastroJogo" />
+      <End Role="Consulta" EntitySet="Consulta" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

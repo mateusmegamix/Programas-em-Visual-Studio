@@ -1,0 +1,50 @@
+﻿@model IEnumerable<AlertCity.Model.appCadastroUsuario>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.appNome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.appSenha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.appConfirmar)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.appEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.appCelular)
+        </th>
+        <th>Alterar</th>
+        <th>Excluir</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.appNome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.appSenha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.appConfirmar)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.appEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.appCelular)
+        </td>
+        <td>
+            <a class="btn btn-success" href="@Url.Action("Alterar",new { ProUsuario=item.appLogin})">Alterar</a>
+        </td>
+        <td>
+            <a class="btn btn-danger" href="@Url.Action("Excluir",new { ProUsuario=item.appLogin})">Excluir</a>
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="alextheodoroModelStoreContainer" CdmEntityContainer="alextheodoroEntities">
+    <EntitySetMapping Name="appCadastroUsuario">
+      <EntityTypeMapping TypeName="alextheodoroModel.appCadastroUsuario">
+        <MappingFragment StoreEntitySet="appCadastroUsuario">
+          <ScalarProperty Name="appLogin" ColumnName="appLogin" />
+          <ScalarProperty Name="appNome" ColumnName="appNome" />
+          <ScalarProperty Name="appSenha" ColumnName="appSenha" />
+          <ScalarProperty Name="appConfirmar" ColumnName="appConfirmar" />
+          <ScalarProperty Name="appEmail" ColumnName="appEmail" />
+          <ScalarProperty Name="appCelular" ColumnName="appCelular" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="appLogin">
+      <EntityTypeMapping TypeName="alextheodoroModel.appLogin">
+        <MappingFragment StoreEntitySet="appLogin">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Senha" ColumnName="Senha" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BuracoReg">
+      <EntityTypeMapping TypeName="alextheodoroModel.BuracoReg">
+        <MappingFragment StoreEntitySet="BuracoReg">
+          <ScalarProperty Name="RegistroBuraco" ColumnName="RegistroBuraco" />
+          <ScalarProperty Name="FotoBur" ColumnName="FotoBur" />
+          <ScalarProperty Name="DescricaoBur" ColumnName="DescricaoBur" />
+          <ScalarProperty Name="RuaBur" ColumnName="RuaBur" />
+          <ScalarProperty Name="CidadeBur" ColumnName="CidadeBur" />
+          <ScalarProperty Name="BairroBur" ColumnName="BairroBur" />
+          <ScalarProperty Name="DataBuracoBur" ColumnName="DataBuracoBur" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ConsultaRegistros01">
+      <EntityTypeMapping TypeName="alextheodoroModel.ConsultaRegistros01">
+        <MappingFragment StoreEntitySet="ConsultaRegistros01">
+          <ScalarProperty Name="Registros" ColumnName="Registros" />
+          <ScalarProperty Name="RegistroID" ColumnName="RegistroID" />
+          <ScalarProperty Name="Rua" ColumnName="Rua" />
+          <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+          <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+          <ScalarProperty Name="Imagem" ColumnName="Imagem" />
+          <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FocosReg">
+      <EntityTypeMapping TypeName="alextheodoroModel.FocosReg">
+        <MappingFragment StoreEntitySet="FocosReg">
+          <ScalarProperty Name="RegistroFocos" ColumnName="RegistroFocos" />
+          <ScalarProperty Name="FotoFoc" ColumnName="FotoFoc" />
+          <ScalarProperty Name="DataFocos" ColumnName="DataFocos" />
+          <ScalarProperty Name="RuaFoc" ColumnName="RuaFoc" />
+          <ScalarProperty Name="CidadeFoc" ColumnName="CidadeFoc" />
+          <ScalarProperty Name="BairroFoc" ColumnName="BairroFoc" />
+          <ScalarProperty Name="DescricaoFoc" ColumnName="DescricaoFoc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IntoxicacaoReg">
+      <EntityTypeMapping TypeName="alextheodoroModel.IntoxicacaoReg">
+        <MappingFragment StoreEntitySet="IntoxicacaoReg">
+          <ScalarProperty Name="RegistroIntoxicacao" ColumnName="RegistroIntoxicacao" />
+          <ScalarProperty Name="FotoInt" ColumnName="FotoInt" />
+          <ScalarProperty Name="DataInt" ColumnName="DataInt" />
+          <ScalarProperty Name="RuaInt" ColumnName="RuaInt" />
+          <ScalarProperty Name="CidadeInt" ColumnName="CidadeInt" />
+          <ScalarProperty Name="BairroInt" ColumnName="BairroInt" />
+          <ScalarProperty Name="DescricaoInt" ColumnName="DescricaoInt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VazamentoReg">
+      <EntityTypeMapping TypeName="alextheodoroModel.VazamentoReg">
+        <MappingFragment StoreEntitySet="VazamentoReg">
+          <ScalarProperty Name="RegistroVazamento" ColumnName="RegistroVazamento" />
+          <ScalarProperty Name="FotoVaz" ColumnName="FotoVaz" />
+          <ScalarProperty Name="DataVazamento" ColumnName="DataVazamento" />
+          <ScalarProperty Name="CidadeVaz" ColumnName="CidadeVaz" />
+          <ScalarProperty Name="BairroVaz" ColumnName="BairroVaz" />
+          <ScalarProperty Name="RuaVaz" ColumnName="RuaVaz" />
+          <ScalarProperty Name="DescricaoVaz" ColumnName="DescricaoVaz" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ViolenciaReg">
+      <EntityTypeMapping TypeName="alextheodoroModel.ViolenciaReg">
+        <MappingFragment StoreEntitySet="ViolenciaReg">
+          <ScalarProperty Name="RegistroViolencia" ColumnName="RegistroViolencia" />
+          <ScalarProperty Name="FotoVio" ColumnName="FotoVio" />
+          <ScalarProperty Name="DataViolencia" ColumnName="DataViolencia" />
+          <ScalarProperty Name="RuaVio" ColumnName="RuaVio" />
+          <ScalarProperty Name="CidadeVio" ColumnName="CidadeVio" />
+          <ScalarProperty Name="BairroVio" ColumnName="BairroVio" />
+          <ScalarProperty Name="DescricaoVio" ColumnName="DescricaoVio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Evento">
+      <EntityTypeMapping TypeName="alextheodoroModel.Evento">
+        <MappingFragment StoreEntitySet="Evento">
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="TipoF" ColumnName="TipoF" />
+          <ScalarProperty Name="Valorf" ColumnName="Valorf" />
+          <ScalarProperty Name="DescricaoEvento" ColumnName="DescricaoEvento" />
+          <ScalarProperty Name="Dataf" ColumnName="Dataf" />
+          <ScalarProperty Name="Cepf" ColumnName="Cepf" />
+          <ScalarProperty Name="Uff" ColumnName="Uff" />
+          <ScalarProperty Name="Cidadef" ColumnName="Cidadef" />
+          <ScalarProperty Name="Bairrof" ColumnName="Bairrof" />
+          <ScalarProperty Name="Ruaf" ColumnName="Ruaf" />
+          <ScalarProperty Name="Localizacaof" ColumnName="Localizacaof" />
+          <ScalarProperty Name="RegistroEvento" ColumnName="RegistroEvento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

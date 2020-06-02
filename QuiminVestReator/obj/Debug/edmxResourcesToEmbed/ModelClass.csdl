@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="reatorModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="controle">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Etapa" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Hora" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Data" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="VolDestilado" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Caldeira" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Reator" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Fluido" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="PressaoMmHg" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="AgitacaoRpm" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="AmperagemA" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="EntradaSaida">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Funcionario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Veiculo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Placa" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="HoraEntrada" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="HoraSaida" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="KmEntrada" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="KmSaida" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Data" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Destino" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="funcionario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Nome" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Cargo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Telefone" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Descricao" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Senha" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Cidade" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Bairro" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Rua" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Cpf" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Idade" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Sexo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="DataNasc" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Uf" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityContainer Name="masterEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="controle" EntityType="Self.controle" />
+    <EntitySet Name="EntradaSaida" EntityType="Self.EntradaSaida" />
+    <EntitySet Name="funcionario" EntityType="Self.funcionario" />
+  </EntityContainer>
+</Schema>

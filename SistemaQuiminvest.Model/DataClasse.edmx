@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="QuiminvestModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="controle">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Etapa" Type="varchar" MaxLength="100" />
+          <Property Name="Hora" Type="varchar" MaxLength="50" />
+          <Property Name="Data" Type="varchar" MaxLength="50" />
+          <Property Name="VolDestilado" Type="varchar" MaxLength="50" />
+          <Property Name="Caldeira" Type="varchar" MaxLength="50" />
+          <Property Name="Reator" Type="varchar" MaxLength="50" />
+          <Property Name="Fluido" Type="varchar" MaxLength="50" />
+          <Property Name="PressaoMmHg" Type="varchar" MaxLength="50" />
+          <Property Name="AgitacaoRpm" Type="varchar" MaxLength="50" />
+          <Property Name="AmperagemA" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="CtrlNotasFiscais">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Fornecedor" Type="varchar" MaxLength="50" />
+          <Property Name="Produto" Type="varchar" MaxLength="50" />
+          <Property Name="Entrega" Type="varchar" MaxLength="50" />
+          <Property Name="Recebido" Type="varchar" MaxLength="50" />
+          <Property Name="Data" Type="varchar" MaxLength="50" />
+          <Property Name="Hora" Type="varchar" MaxLength="50" />
+          <Property Name="NumeroNF" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="EntradaSaida">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Funcionario" Type="varchar" MaxLength="50" />
+          <Property Name="Veiculo" Type="varchar" MaxLength="50" />
+          <Property Name="Placa" Type="varchar" MaxLength="50" />
+          <Property Name="HoraEntrada" Type="varchar" MaxLength="50" />
+          <Property Name="HoraSaida" Type="varchar" MaxLength="50" />
+          <Property Name="KmEntrada" Type="varchar" MaxLength="50" />
+          <Property Name="KmSaida" Type="varchar" MaxLength="50" />
+          <Property Name="Data" Type="varchar" MaxLength="50" />
+          <Property Name="Destino" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="funcionario">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nome" Type="varchar" MaxLength="50" />
+          <Property Name="Cargo" Type="varchar" MaxLength="50" />
+          <Property Name="Telefone" Type="varchar" MaxLength="50" />
+          <Property Name="Descricao" Type="varchar" MaxLength="100" />
+          <Property Name="Login" Type="varchar" MaxLength="50" />
+          <Property Name="Senha" Type="varchar" MaxLength="50" />
+          <Property Name="Email" Type="varchar" MaxLength="50" />
+          <Property Name="Cidade" Type="varchar" MaxLength="50" />
+          <Property Name="Bairro" Type="varchar" MaxLength="50" />
+          <Property Name="Rua" Type="varchar" MaxLength="50" />
+          <Property Name="Cpf" Type="varchar" MaxLength="50" />
+          <Property Name="Sexo" Type="varchar" MaxLength="50" />
+          <Property Name="DataNasc" Type="varchar" MaxLength="50" />
+          <Property Name="Uf" Type="varchar" MaxLength="50" />
+          <Property Name="Image" Type="image" />
+        </EntityType>
+        <EntityContainer Name="QuiminvestModelStoreContainer">
+          <EntitySet Name="controle" EntityType="Self.controle" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CtrlNotasFiscais" EntityType="Self.CtrlNotasFiscais" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EntradaSaida" EntityType="Self.EntradaSaida" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="funcionario" EntityType="Self.funcionario" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="QuiminvestModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="controle">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Etapa" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Hora" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Data" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="VolDestilado" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Caldeira" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Reator" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Fluido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PressaoMmHg" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="AgitacaoRpm" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="AmperagemA" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Namostra" Type="String" Nullable="false" />
+          <Property Name="QtdFormol" Type="String" Nullable="false" />
+          <Property Name="HoraFim" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CtrlNotasFiscais">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Fornecedor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Produto" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Entrega" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Recebido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Data" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Hora" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="NumeroNF" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="EntradaSaida">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Funcionario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Veiculo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Placa" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="HoraEntrada" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="HoraSaida" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="KmEntrada" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="KmSaida" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Data" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Destino" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="funcionario">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nome" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Cargo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Telefone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Descricao" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Senha" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Cidade" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Bairro" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Rua" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Cpf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Sexo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="DataNasc" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Uf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityContainer Name="reatorEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="controle" EntityType="Self.controle" />
+          <EntitySet Name="CtrlNotasFiscais" EntityType="Self.CtrlNotasFiscais" />
+          <EntitySet Name="EntradaSaida" EntityType="Self.EntradaSaida" />
+          <EntitySet Name="funcionario" EntityType="Self.funcionario" />
+          <EntitySet Name="OrdemPSet" EntityType="QuiminvestModel.OrdemP" />
+        </EntityContainer>
+        <EntityType Name="OrdemP">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ProdutoOP" Type="String" Nullable="false" />
+          <Property Name="LoteOP" Type="String" Nullable="false" />
+          <Property Name="DataOP" Type="String" Nullable="false" />
+          <Property Name="HoraOP" Type="String" Nullable="false" />
+          <Property Name="Nome1" Type="String" Nullable="false" />
+          <Property Name="Nome2" Type="String" Nullable="false" />
+          <Property Name="Nome3" Type="String" Nullable="false" />
+          <Property Name="HO1" Type="String" Nullable="false" />
+          <Property Name="HO2" Type="String" Nullable="false" />
+          <Property Name="HO3" Type="String" Nullable="false" />
+          <Property Name="NomeA1" Type="String" Nullable="false" />
+          <Property Name="NomeA2" Type="String" Nullable="false" />
+          <Property Name="NomeA3" Type="String" Nullable="false" />
+          <Property Name="HA1" Type="String" Nullable="false" />
+          <Property Name="HA2" Type="String" Nullable="false" />
+          <Property Name="HA3" Type="String" Nullable="false" />
+          <Property Name="Materia1" Type="String" Nullable="false" />
+          <Property Name="Materia2" Type="String" Nullable="false" />
+          <Property Name="Materia3" Type="String" Nullable="false" />
+          <Property Name="LM1" Type="String" Nullable="false" />
+          <Property Name="LM2" Type="String" Nullable="false" />
+          <Property Name="LM3" Type="String" Nullable="false" />
+          <Property Name="Qtd1" Type="String" Nullable="false" />
+          <Property Name="Qtd2" Type="String" Nullable="false" />
+          <Property Name="Qtd3" Type="String" Nullable="false" />
+          <Property Name="Observacao" Type="String" Nullable="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="QuiminvestModelStoreContainer" CdmEntityContainer="reatorEntities">
+          <EntitySetMapping Name="controle">
+            <EntityTypeMapping TypeName="QuiminvestModel.controle">
+              <MappingFragment StoreEntitySet="controle">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Etapa" ColumnName="Etapa" />
+                <ScalarProperty Name="Hora" ColumnName="Hora" />
+                <ScalarProperty Name="Data" ColumnName="Data" />
+                <ScalarProperty Name="VolDestilado" ColumnName="VolDestilado" />
+                <ScalarProperty Name="Caldeira" ColumnName="Caldeira" />
+                <ScalarProperty Name="Reator" ColumnName="Reator" />
+                <ScalarProperty Name="Fluido" ColumnName="Fluido" />
+                <ScalarProperty Name="PressaoMmHg" ColumnName="PressaoMmHg" />
+                <ScalarProperty Name="AgitacaoRpm" ColumnName="AgitacaoRpm" />
+                <ScalarProperty Name="AmperagemA" ColumnName="AmperagemA" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CtrlNotasFiscais">
+            <EntityTypeMapping TypeName="QuiminvestModel.CtrlNotasFiscais">
+              <MappingFragment StoreEntitySet="CtrlNotasFiscais">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Fornecedor" ColumnName="Fornecedor" />
+                <ScalarProperty Name="Produto" ColumnName="Produto" />
+                <ScalarProperty Name="Entrega" ColumnName="Entrega" />
+                <ScalarProperty Name="Recebido" ColumnName="Recebido" />
+                <ScalarProperty Name="Data" ColumnName="Data" />
+                <ScalarProperty Name="Hora" ColumnName="Hora" />
+                <ScalarProperty Name="NumeroNF" ColumnName="NumeroNF" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EntradaSaida">
+            <EntityTypeMapping TypeName="QuiminvestModel.EntradaSaida">
+              <MappingFragment StoreEntitySet="EntradaSaida">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Funcionario" ColumnName="Funcionario" />
+                <ScalarProperty Name="Veiculo" ColumnName="Veiculo" />
+                <ScalarProperty Name="Placa" ColumnName="Placa" />
+                <ScalarProperty Name="HoraEntrada" ColumnName="HoraEntrada" />
+                <ScalarProperty Name="HoraSaida" ColumnName="HoraSaida" />
+                <ScalarProperty Name="KmEntrada" ColumnName="KmEntrada" />
+                <ScalarProperty Name="KmSaida" ColumnName="KmSaida" />
+                <ScalarProperty Name="Data" ColumnName="Data" />
+                <ScalarProperty Name="Destino" ColumnName="Destino" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="funcionario">
+            <EntityTypeMapping TypeName="QuiminvestModel.funcionario">
+              <MappingFragment StoreEntitySet="funcionario">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Nome" ColumnName="Nome" />
+                <ScalarProperty Name="Cargo" ColumnName="Cargo" />
+                <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+                <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+                <ScalarProperty Name="Login" ColumnName="Login" />
+                <ScalarProperty Name="Senha" ColumnName="Senha" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+                <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+                <ScalarProperty Name="Rua" ColumnName="Rua" />
+                <ScalarProperty Name="Cpf" ColumnName="Cpf" />
+                <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+                <ScalarProperty Name="DataNasc" ColumnName="DataNasc" />
+                <ScalarProperty Name="Uf" ColumnName="Uf" />
+                <ScalarProperty Name="Image" ColumnName="Image" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

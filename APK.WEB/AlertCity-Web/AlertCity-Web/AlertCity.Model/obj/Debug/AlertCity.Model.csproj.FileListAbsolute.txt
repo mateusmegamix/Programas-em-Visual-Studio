@@ -1,0 +1,96 @@
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\bin\Debug\AlertCity.Model.dll.config
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\bin\Debug\AlertCity.Model.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\bin\Debug\AlertCity.Model.pdb
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\bin\Debug\EntityFramework.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\bin\Debug\EntityFramework.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\obj\Debug\AlertCity.Model.csprojAssemblyReference.cache
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CopyComplete
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\obj\Debug\AlertCity.Model.dll
+C:\Users\Lab1\source\repos\AlertCity\AlertCity.Model\obj\Debug\AlertCity.Model.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CopyComplete
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CopyComplete
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll.config
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.pdb
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csprojResolveAssemblyReference.cache
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CopyComplete
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.dll
+C:\Users\Douglas\Desktop\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll.config
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.pdb
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CopyComplete
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.dll
+C:\Users\Pichau\Downloads\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll.config
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.pdb
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csprojAssemblyReference.cache
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CopyComplete
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.dll
+C:\Users\Douglas\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll.config
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csprojAssemblyReference.cache
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CopyComplete
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll.config
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\AlertCity.Model.pdb
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csprojAssemblyReference.cache
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.csproj.CopyComplete
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.dll
+C:\Users\Mateus Pereira\Desktop\AlertCity\AlertCity-Web\AlertCity-Web\AlertCity-Web\AlertCity.Model\obj\Debug\AlertCity.Model.pdb

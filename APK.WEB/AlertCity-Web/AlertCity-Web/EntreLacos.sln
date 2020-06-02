@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntreLacos", "AlertCity\EntreLacos.csproj", "{0B051BE1-3E9B-4A72-818D-570EF90A9496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntreLacos.Model", "AlertCity.Model\EntreLacos.Model.csproj", "{38886D70-5674-455A-AFC6-D10E6CFC36EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B051BE1-3E9B-4A72-818D-570EF90A9496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B051BE1-3E9B-4A72-818D-570EF90A9496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B051BE1-3E9B-4A72-818D-570EF90A9496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B051BE1-3E9B-4A72-818D-570EF90A9496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38886D70-5674-455A-AFC6-D10E6CFC36EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38886D70-5674-455A-AFC6-D10E6CFC36EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38886D70-5674-455A-AFC6-D10E6CFC36EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38886D70-5674-455A-AFC6-D10E6CFC36EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39094F0B-442B-48D3-9B37-463C12205E3B}
+	EndGlobalSection
+EndGlobal

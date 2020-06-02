@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdivinhaPalavra", "AdivinhaPalavra.csproj", "{FFB863B8-7861-4BBB-BE68-EFC3E33CA610}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorForca", "..\InstaladorForca\InstaladorForca.vdproj", "{E1440250-4ADE-4482-B517-CB47B8E9E3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB863B8-7861-4BBB-BE68-EFC3E33CA610}.Debug|x86.ActiveCfg = Debug|x86
+		{FFB863B8-7861-4BBB-BE68-EFC3E33CA610}.Debug|x86.Build.0 = Debug|x86
+		{FFB863B8-7861-4BBB-BE68-EFC3E33CA610}.Release|x86.ActiveCfg = Release|x86
+		{FFB863B8-7861-4BBB-BE68-EFC3E33CA610}.Release|x86.Build.0 = Release|x86
+		{E1440250-4ADE-4482-B517-CB47B8E9E3DD}.Debug|x86.ActiveCfg = Debug
+		{E1440250-4ADE-4482-B517-CB47B8E9E3DD}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A77799-53A6-4668-890A-EE73F7A1D524}
+	EndGlobalSection
+EndGlobal

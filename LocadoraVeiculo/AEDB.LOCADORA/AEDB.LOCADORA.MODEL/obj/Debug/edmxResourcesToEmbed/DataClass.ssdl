@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="danielgomesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Clientee">
+    <Key>
+      <PropertyRef Name="CodCli" />
+    </Key>
+    <Property Name="Nome" Type="varchar" MaxLength="200" />
+    <Property Name="Cpf" Type="varchar" MaxLength="14" />
+    <Property Name="Endereco" Type="varchar" MaxLength="100" />
+    <Property Name="Tel" Type="varchar" MaxLength="15" />
+    <Property Name="DataNasc" Type="date" />
+    <Property Name="CodCli" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Funcionario">
+    <Key>
+      <PropertyRef Name="CodFunc" />
+    </Key>
+    <Property Name="NomeFunc" Type="varchar" MaxLength="100" />
+    <Property Name="CodFunc" Type="int" Nullable="false" />
+    <Property Name="CpfFunc" Type="varchar" MaxLength="14" />
+    <Property Name="NascFunc" Type="date" />
+    <Property Name="TelFunc" Type="varchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="Locacao">
+    <Key>
+      <PropertyRef Name="CodLoc" />
+    </Key>
+    <Property Name="QtdDia" Type="int" Nullable="false" />
+    <Property Name="ValorTotal" Type="float" />
+    <Property Name="Comissao" Type="float" />
+    <Property Name="CodC" Type="int" Nullable="false" />
+    <Property Name="CodV" Type="int" Nullable="false" />
+    <Property Name="CodLoc" Type="int" Nullable="false" />
+    <Property Name="CodF" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Veiculo">
+    <Key>
+      <PropertyRef Name="CodVeiculo" />
+    </Key>
+    <Property Name="Modelo" Type="varchar" MaxLength="15" />
+    <Property Name="Placa" Type="varchar" MaxLength="10" />
+    <Property Name="Cor" Type="varchar" MaxLength="10" />
+    <Property Name="Ano" Type="date" />
+    <Property Name="CodVeiculo" Type="int" Nullable="false" />
+    <Property Name="Valor" Type="float" />
+  </EntityType>
+  <Association Name="FK_Locacao_Clientee1">
+    <End Role="Clientee" Type="Self.Clientee" Multiplicity="1" />
+    <End Role="Locacao" Type="Self.Locacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clientee">
+        <PropertyRef Name="CodCli" />
+      </Principal>
+      <Dependent Role="Locacao">
+        <PropertyRef Name="CodC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Locacao_Funcionario1">
+    <End Role="Funcionario" Type="Self.Funcionario" Multiplicity="1" />
+    <End Role="Locacao" Type="Self.Locacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Funcionario">
+        <PropertyRef Name="CodFunc" />
+      </Principal>
+      <Dependent Role="Locacao">
+        <PropertyRef Name="CodF" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Locacao_Veiculo1">
+    <End Role="Veiculo" Type="Self.Veiculo" Multiplicity="1" />
+    <End Role="Locacao" Type="Self.Locacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Veiculo">
+        <PropertyRef Name="CodVeiculo" />
+      </Principal>
+      <Dependent Role="Locacao">
+        <PropertyRef Name="CodV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="danielgomesModelStoreContainer">
+    <EntitySet Name="Clientee" EntityType="Self.Clientee" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Funcionario" EntityType="Self.Funcionario" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Locacao" EntityType="Self.Locacao" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Veiculo" EntityType="Self.Veiculo" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Locacao_Clientee1" Association="Self.FK_Locacao_Clientee1">
+      <End Role="Clientee" EntitySet="Clientee" />
+      <End Role="Locacao" EntitySet="Locacao" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Locacao_Funcionario1" Association="Self.FK_Locacao_Funcionario1">
+      <End Role="Funcionario" EntitySet="Funcionario" />
+      <End Role="Locacao" EntitySet="Locacao" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Locacao_Veiculo1" Association="Self.FK_Locacao_Veiculo1">
+      <End Role="Veiculo" EntitySet="Veiculo" />
+      <End Role="Locacao" EntitySet="Locacao" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

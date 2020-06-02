@@ -1,0 +1,30 @@
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\SICOP.MODEL.dll.config
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\SICOP.MODEL.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\SICOP.MODEL.pdb
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\EntityFramework.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\EntityFramework.xml
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\obj\Debug\SICOP.MODEL.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.MODEL\obj\Debug\SICOP.MODEL.pdb
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\SICOP.MODEL.dll.config
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\SICOP.MODEL.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\SICOP.MODEL.pdb
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\EntityFramework.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\System.Data.SQLite.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\EntityFramework.xml
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\System.Data.SQLite.xml
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\bin\Debug\System.Data.SQLite.dll.config
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\obj\Debug\SICOP.MODEL.csprojAssemblyReference.cache
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\obj\Debug\SICOP.MODEL.csproj.CopyComplete
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\obj\Debug\SICOP.MODEL.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.MODEL\obj\Debug\SICOP.MODEL.pdb

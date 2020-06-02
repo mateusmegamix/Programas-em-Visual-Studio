@@ -1,0 +1,11 @@
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.exe
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.pdb
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\calculator.exe
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\calculator.pdb
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\control1.dll
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\control1.pdb
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\bin\Debug\usercontrol1.pdb
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\_C#\Calculadora_Cientifica\scientific calculator\scientific calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache

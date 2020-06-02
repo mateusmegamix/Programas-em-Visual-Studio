@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaVelha", "JogoDaVelha\JogoDaVelha.csproj", "{B3AA855F-5265-4C28-AAAA-452C6763B467}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Instalador\Instalador.vdproj", "{C33FCFD6-EC00-4D03-9BED-51F617F83507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3AA855F-5265-4C28-AAAA-452C6763B467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AA855F-5265-4C28-AAAA-452C6763B467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AA855F-5265-4C28-AAAA-452C6763B467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AA855F-5265-4C28-AAAA-452C6763B467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33FCFD6-EC00-4D03-9BED-51F617F83507}.Debug|Any CPU.ActiveCfg = Debug
+		{C33FCFD6-EC00-4D03-9BED-51F617F83507}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA38291-FE5D-4C9F-952C-2B2E23C08BE9}
+	EndGlobalSection
+EndGlobal

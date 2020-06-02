@@ -1,0 +1,16 @@
+d:\rajshree\control1\control1\bin\Debug\control1.dll
+d:\rajshree\control1\control1\bin\Debug\control1.pdb
+d:\rajshree\control1\control1\obj\Debug\ResolveAssemblyReference.cache
+d:\rajshree\control1\control1\obj\Debug\control1.Properties.Resources.resources
+d:\rajshree\control1\control1\obj\Debug\control1.UserControl1.resources
+d:\rajshree\control1\control1\obj\Debug\control1.csproj.GenerateResource.Cache
+d:\rajshree\control1\control1\obj\Debug\control1.dll
+d:\rajshree\control1\control1\obj\Debug\control1.pdb
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\control1\control1\bin\Debug\control1.dll
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\control1\control1\bin\Debug\control1.pdb
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\control1\control1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\control1\control1\obj\Debug\control1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\control1\control1\obj\Debug\control1.UserControl1.resources
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\control1\control1\obj\Debug\control1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\control1\control1\obj\Debug\control1.dll
+C:\Documents and Settings\Admin\Desktop\scientific calculator\scientific calculator\control1\control1\obj\Debug\control1.pdb

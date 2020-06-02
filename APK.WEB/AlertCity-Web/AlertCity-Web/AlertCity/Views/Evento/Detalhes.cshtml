@@ -1,0 +1,88 @@
+﻿@model IEnumerable<AlertCity.Model.Evento>
+
+<table class="table table-responsive table-hover table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoF)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Localizacaof)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Telefone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dataf)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ruaf)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Bairrof)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cidadef)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Uff)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cepf)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Valorf)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DescricaoEvento)
+        </th>
+
+        <th>Alterar</th>
+        <th>Excluir</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoF)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Localizacaof)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Telefone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dataf)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ruaf)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Bairrof)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cidadef)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Uff)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cepf)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Valorf)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DescricaoEvento)
+        </td>
+
+        <td>
+            <a class="btn btn-success" href="@Url.Action("Alterar",new { ProEvento=item.RegistroEvento})">Alterar</a>
+        </td>
+        <td>
+            <a class="btn btn-danger" href="@Url.Action("Excluir",new { ProEvento=item.RegistroEvento})">Excluir</a>
+        </td>
+    </tr>
+}
+
+</table>

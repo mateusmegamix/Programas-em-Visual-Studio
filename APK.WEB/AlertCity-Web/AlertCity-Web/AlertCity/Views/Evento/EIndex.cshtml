@@ -1,0 +1,103 @@
+﻿@model AlertCity.Models.EventoM
+
+<body background="~/Imagem/Fundo.jpg" style="animation-delay:initial;">
+
+    @using (Html.BeginForm("Salvar", "Evento", FormMethod.Post, new { @class = "form-horizontal", @role = "form", @enctype = "multipart/form-data", @id = "FrmEvento" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="Container">
+                <h1>Cadastro de Eventos</h1>
+                <hr />
+                <div class="col-md-12">
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.TipoF, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.TipoF, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.TipoF, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Localizacaof, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.Localizacaof, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Localizacaof, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Telefone, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.Telefone, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Telefone, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Dataf, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.Dataf, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Dataf, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Ruaf, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.Ruaf, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Ruaf, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Bairrof, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.Bairrof, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Bairrof, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Cidadef, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.Cidadef, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Cidadef, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Uff, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.Uff, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Uff, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Cepf, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.Cepf, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Cepf, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Valorf, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.Valorf, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Valorf, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.DescricaoEvento, htmlAttributes: new { @class = "control-label" })
+                        <div class="md-2">
+                            @Html.TextArea("DescricaoEvento", null, new { htmlAttributes = new { @class = "form-control" }, rows = "8", cols = "150" })
+                            @Html.ValidationMessageFor(model => model.DescricaoEvento, "", new { @class = "text-danger" })
+                            <br />
+                            <br />
+                            <input type="submit" value="Salvar" class="btn btn-default" />
+                            <br />
+                            <br />
+                            @Html.ActionLink("Voltar ao Entre Laços", "PIndex", "Principal")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div class="table">
+        @{ Html.RenderPartial("Detalhes", @Model.SelecionarEventos());}
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</body>

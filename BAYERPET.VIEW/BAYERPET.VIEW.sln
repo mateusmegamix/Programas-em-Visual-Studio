@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAYERPET.VIEW", "BAYERPET.VIEW\BAYERPET.VIEW.csproj", "{4C80CC81-9587-45C6-A788-2DACC589DC4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAYERPET.MODEL", "BAYERPET.MODEL\BAYERPET.MODEL.csproj", "{50EBD4C5-2165-4FF0-8EB4-709572A93A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAYERPET.CONTROL", "BAYERPET.CONTROL\BAYERPET.CONTROL.csproj", "{34F2C578-EA75-4588-8252-74CAA72DF60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C80CC81-9587-45C6-A788-2DACC589DC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C80CC81-9587-45C6-A788-2DACC589DC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C80CC81-9587-45C6-A788-2DACC589DC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C80CC81-9587-45C6-A788-2DACC589DC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EBD4C5-2165-4FF0-8EB4-709572A93A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EBD4C5-2165-4FF0-8EB4-709572A93A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EBD4C5-2165-4FF0-8EB4-709572A93A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EBD4C5-2165-4FF0-8EB4-709572A93A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F2C578-EA75-4588-8252-74CAA72DF60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F2C578-EA75-4588-8252-74CAA72DF60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F2C578-EA75-4588-8252-74CAA72DF60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F2C578-EA75-4588-8252-74CAA72DF60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

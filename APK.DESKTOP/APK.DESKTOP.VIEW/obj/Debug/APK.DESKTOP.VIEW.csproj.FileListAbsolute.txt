@@ -1,0 +1,95 @@
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.exe
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.pdb
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.dll
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.dll
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.pdb
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.dll.config
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.xml
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csprojAssemblyReference.cache
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Principal.resources
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Properties.Resources.resources
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.GenerateResource.cache
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.CopyComplete
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.exe
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.pdb
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmCliente.resources
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmFesta.resources
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmUsuario.resources
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmHotel.resources
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmJogo.resources
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Login.resources
+C:\Users\Mateus Pereira\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.exe.config
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.exe.config
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.exe
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.pdb
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.dll
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.dll
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.pdb
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.dll.config
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.xml
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csprojAssemblyReference.cache
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmCliente.resources
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmFesta.resources
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmHotel.resources
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmJogo.resources
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmMaps.resources
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmUsuario.resources
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Login.resources
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Principal.resources
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Properties.Resources.resources
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.GenerateResource.cache
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.CopyComplete
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.exe
+C:\Users\SUPORTE\Desktop\tcc\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.pdb
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.exe.config
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.exe
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.pdb
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.dll
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.dll
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.pdb
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.dll.config
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.xml
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csprojAssemblyReference.cache
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmCliente.resources
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmFesta.resources
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmHotel.resources
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmJogo.resources
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmMaps.resources
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmUsuario.resources
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Login.resources
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Principal.resources
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Properties.Resources.resources
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.GenerateResource.cache
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.CopyComplete
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.exe
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.pdb
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mateus Pereira\Downloads\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.exe.config
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.exe
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.VIEW.pdb
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.dll
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.dll
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.pdb
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\APK.DESKTOP.MODEL.dll.config
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.xml
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csprojAssemblyReference.cache
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmCliente.resources
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmFesta.resources
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmHotel.resources
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmJogo.resources
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmMaps.resources
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.FrmUsuario.resources
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Login.resources
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Principal.resources
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.Properties.Resources.resources
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.GenerateResource.cache
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.CoreCompileInputs.cache
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.csproj.CopyComplete
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.exe
+C:\Estagiario\APK.DESKTOP\APK.DESKTOP.VIEW\obj\Debug\APK.DESKTOP.VIEW.pdb

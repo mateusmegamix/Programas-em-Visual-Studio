@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="tccModelStoreContainer" CdmEntityContainer="tccEntities">
+    <EntitySetMapping Name="CadastroCliente">
+      <EntityTypeMapping TypeName="tccModel.CadastroCliente">
+        <MappingFragment StoreEntitySet="CadastroCliente">
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Cpf" ColumnName="Cpf" />
+          <ScalarProperty Name="Rua" ColumnName="Rua" />
+          <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+          <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+          <ScalarProperty Name="TipoEvento" ColumnName="TipoEvento" />
+          <ScalarProperty Name="Idade" ColumnName="Idade" />
+          <ScalarProperty Name="Foto" ColumnName="Foto" />
+          <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="DataNasc" ColumnName="DataNasc" />
+          <ScalarProperty Name="Cnpj" ColumnName="Cnpj" />
+          <ScalarProperty Name="CodigoCliente" ColumnName="CodigoCliente" />
+          <ScalarProperty Name="EmailCliente" ColumnName="EmailCliente" />
+          <ScalarProperty Name="SenhaCliente" ColumnName="SenhaCliente" />
+          <ScalarProperty Name="ConfCliente" ColumnName="ConfCliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CadastroFesta">
+      <EntityTypeMapping TypeName="tccModel.CadastroFesta">
+        <MappingFragment StoreEntitySet="CadastroFesta">
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="CodigoFesta" ColumnName="CodigoFesta" />
+          <ScalarProperty Name="Fotof" ColumnName="Fotof" />
+          <ScalarProperty Name="Localizacaof" ColumnName="Localizacaof" />
+          <ScalarProperty Name="Ruaf" ColumnName="Ruaf" />
+          <ScalarProperty Name="Bairrof" ColumnName="Bairrof" />
+          <ScalarProperty Name="Cidadef" ColumnName="Cidadef" />
+          <ScalarProperty Name="Uff" ColumnName="Uff" />
+          <ScalarProperty Name="Cepf" ColumnName="Cepf" />
+          <ScalarProperty Name="NomeCliente" ColumnName="NomeCliente" />
+          <ScalarProperty Name="Dataf" ColumnName="Dataf" />
+          <ScalarProperty Name="DescricaoEvento" ColumnName="DescricaoEvento" />
+          <ScalarProperty Name="Valorf" ColumnName="Valorf" />
+          <ScalarProperty Name="Lotef" ColumnName="Lotef" />
+          <ScalarProperty Name="DescricaoCliente" ColumnName="DescricaoCliente" />
+          <ScalarProperty Name="ReferenciaF" ColumnName="ReferenciaF" />
+          <ScalarProperty Name="TipoF" ColumnName="TipoF" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CadastroHotel">
+      <EntityTypeMapping TypeName="tccModel.CadastroHotel">
+        <MappingFragment StoreEntitySet="CadastroHotel">
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="CodigoHotel" ColumnName="CodigoHotel" />
+          <ScalarProperty Name="FotoHotel" ColumnName="FotoHotel" />
+          <ScalarProperty Name="Ruah" ColumnName="Ruah" />
+          <ScalarProperty Name="Bairroh" ColumnName="Bairroh" />
+          <ScalarProperty Name="Cidadeh" ColumnName="Cidadeh" />
+          <ScalarProperty Name="Ufh" ColumnName="Ufh" />
+          <ScalarProperty Name="DescricaoHotel" ColumnName="DescricaoHotel" />
+          <ScalarProperty Name="NomeCliente" ColumnName="NomeCliente" />
+          <ScalarProperty Name="DescricaoCliente" ColumnName="DescricaoCliente" />
+          <ScalarProperty Name="Categoria" ColumnName="Categoria" />
+          <ScalarProperty Name="Valorh" ColumnName="Valorh" />
+          <ScalarProperty Name="LocalizacaoH" ColumnName="LocalizacaoH" />
+          <ScalarProperty Name="ReferenciaH" ColumnName="ReferenciaH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CadastroJogo">
+      <EntityTypeMapping TypeName="tccModel.CadastroJogo">
+        <MappingFragment StoreEntitySet="CadastroJogo">
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="CodigoJogo" ColumnName="CodigoJogo" />
+          <ScalarProperty Name="FotoJ" ColumnName="FotoJ" />
+          <ScalarProperty Name="LocalizacaoJ" ColumnName="LocalizacaoJ" />
+          <ScalarProperty Name="RuaJ" ColumnName="RuaJ" />
+          <ScalarProperty Name="Bairroj" ColumnName="Bairroj" />
+          <ScalarProperty Name="Cidadej" ColumnName="Cidadej" />
+          <ScalarProperty Name="Ufj" ColumnName="Ufj" />
+          <ScalarProperty Name="QtdPessoas" ColumnName="QtdPessoas" />
+          <ScalarProperty Name="Dataj" ColumnName="Dataj" />
+          <ScalarProperty Name="AddMembrosj" ColumnName="AddMembrosj" />
+          <ScalarProperty Name="DescricaoJ" ColumnName="DescricaoJ" />
+          <ScalarProperty Name="Valorj" ColumnName="Valorj" />
+          <ScalarProperty Name="AddObjeto" ColumnName="AddObjeto" />
+          <ScalarProperty Name="TipoJ" ColumnName="TipoJ" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CadastroUsuario">
+      <EntityTypeMapping TypeName="tccModel.CadastroUsuario">
+        <MappingFragment StoreEntitySet="CadastroUsuario">
+          <ScalarProperty Name="CodigoUsuario" ColumnName="CodigoUsuario" />
+          <ScalarProperty Name="NomeUsuario" ColumnName="NomeUsuario" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="SenhaUsuario" ColumnName="SenhaUsuario" />
+          <ScalarProperty Name="ConfSenha" ColumnName="ConfSenha" />
+          <ScalarProperty Name="FotoUsuario" ColumnName="FotoUsuario" />
+          <ScalarProperty Name="DataNascUsua" ColumnName="DataNascUsua" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Consulta">
+      <EntityTypeMapping TypeName="tccModel.Consulta">
+        <MappingFragment StoreEntitySet="Consulta">
+          <ScalarProperty Name="FotoCons" ColumnName="FotoCons" />
+          <ScalarProperty Name="DescricaoCons" ColumnName="DescricaoCons" />
+          <ScalarProperty Name="CodigoConsulta" ColumnName="CodigoConsulta" />
+          <ScalarProperty Name="LocalizacaoCons" ColumnName="LocalizacaoCons" />
+          <ScalarProperty Name="RuaCons" ColumnName="RuaCons" />
+          <ScalarProperty Name="BairroCons" ColumnName="BairroCons" />
+          <ScalarProperty Name="CidadeCons" ColumnName="CidadeCons" />
+          <ScalarProperty Name="UfCons" ColumnName="UfCons" />
+          <ScalarProperty Name="DataCons" ColumnName="DataCons" />
+          <ScalarProperty Name="ValorCons" ColumnName="ValorCons" />
+          <ScalarProperty Name="FotoClienteCons" ColumnName="FotoClienteCons" />
+          <ScalarProperty Name="DescricaoClienteCons" ColumnName="DescricaoClienteCons" />
+          <ScalarProperty Name="TipoEventoCons" ColumnName="TipoEventoCons" />
+          <ScalarProperty Name="DescricaoGeral" ColumnName="DescricaoGeral" />
+          <ScalarProperty Name="Registro" ColumnName="Registro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

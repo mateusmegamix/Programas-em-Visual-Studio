@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="tccModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="CadastroCliente">
+          <Key>
+            <PropertyRef Name="CodigoCliente" />
+          </Key>
+          <Property Name="Nome" Type="varchar" MaxLength="250" />
+          <Property Name="Cpf" Type="varchar" MaxLength="50" />
+          <Property Name="Rua" Type="varchar" MaxLength="100" />
+          <Property Name="Bairro" Type="varchar" MaxLength="100" />
+          <Property Name="Cidade" Type="varchar" MaxLength="100" />
+          <Property Name="TipoEvento" Type="varchar" MaxLength="50" />
+          <Property Name="Idade" Type="varchar" MaxLength="10" />
+          <Property Name="Foto" Type="image" />
+          <Property Name="Descricao" Type="varchar" MaxLength="300" />
+          <Property Name="Sexo" Type="varchar" MaxLength="10" />
+          <Property Name="DataNasc" Type="varchar" MaxLength="20" />
+          <Property Name="Cnpj" Type="varchar" MaxLength="50" />
+          <Property Name="CodigoCliente" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="EmailCliente" Type="varchar" MaxLength="100" />
+          <Property Name="SenhaCliente" Type="varchar" MaxLength="50" />
+          <Property Name="ConfCliente" Type="varchar" MaxLength="50" />
+          <Property Name="Telefone" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="CadastroFesta">
+          <Key>
+            <PropertyRef Name="CodigoFesta" />
+          </Key>
+          <Property Name="CodigoFesta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Fotof" Type="image" />
+          <Property Name="Localizacaof" Type="varchar" MaxLength="50" />
+          <Property Name="Ruaf" Type="varchar" MaxLength="100" />
+          <Property Name="Bairrof" Type="varchar" MaxLength="100" />
+          <Property Name="Cidadef" Type="varchar" MaxLength="100" />
+          <Property Name="Uff" Type="varchar" MaxLength="50" />
+          <Property Name="Cepf" Type="varchar" MaxLength="50" />
+          <Property Name="NomeCliente" Type="varchar" MaxLength="250" />
+          <Property Name="Dataf" Type="varchar" MaxLength="50" />
+          <Property Name="DescricaoEvento" Type="varchar" MaxLength="300" />
+          <Property Name="Valorf" Type="varchar" MaxLength="50" />
+          <Property Name="Lotef" Type="varchar" MaxLength="10" />
+          <Property Name="DescricaoCliente" Type="varchar" MaxLength="300" />
+          <Property Name="ReferenciaF" Type="varchar" MaxLength="100" />
+          <Property Name="TipoF" Type="varchar" MaxLength="20" />
+          <Property Name="Telefone" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="CadastroHotel">
+          <Key>
+            <PropertyRef Name="CodigoHotel" />
+          </Key>
+          <Property Name="CodigoHotel" Type="int" Nullable="false" />
+          <Property Name="FotoHotel" Type="image" />
+          <Property Name="Ruah" Type="varchar" MaxLength="100" />
+          <Property Name="Bairroh" Type="varchar" MaxLength="100" />
+          <Property Name="Cidadeh" Type="varchar" MaxLength="100" />
+          <Property Name="Ufh" Type="varchar" MaxLength="50" />
+          <Property Name="DescricaoHotel" Type="varchar" MaxLength="300" />
+          <Property Name="NomeCliente" Type="varchar" MaxLength="250" />
+          <Property Name="DescricaoCliente" Type="varchar" MaxLength="300" />
+          <Property Name="Categoria" Type="varchar" MaxLength="50" />
+          <Property Name="Valorh" Type="varchar" MaxLength="50" />
+          <Property Name="LocalizacaoH" Type="varchar" MaxLength="100" />
+          <Property Name="ReferenciaH" Type="varchar" MaxLength="100" />
+          <Property Name="Telefone" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="CadastroJogo">
+          <Key>
+            <PropertyRef Name="CodigoJogo" />
+          </Key>
+          <Property Name="CodigoJogo" Type="int" Nullable="false" />
+          <Property Name="FotoJ" Type="image" />
+          <Property Name="LocalizacaoJ" Type="varchar" MaxLength="100" />
+          <Property Name="RuaJ" Type="varchar" MaxLength="100" />
+          <Property Name="Bairroj" Type="varchar" MaxLength="100" />
+          <Property Name="Cidadej" Type="varchar" MaxLength="100" />
+          <Property Name="Ufj" Type="varchar" MaxLength="50" />
+          <Property Name="QtdPessoas" Type="varchar" MaxLength="50" />
+          <Property Name="Dataj" Type="varchar" MaxLength="50" />
+          <Property Name="AddMembrosj" Type="varchar" MaxLength="50" />
+          <Property Name="DescricaoJ" Type="varchar" MaxLength="300" />
+          <Property Name="Valorj" Type="varchar" MaxLength="50" />
+          <Property Name="AddObjeto" Type="varchar" MaxLength="100" />
+          <Property Name="TipoJ" Type="varchar" MaxLength="20" />
+          <Property Name="Telefone" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="CadastroUsuario">
+          <Key>
+            <PropertyRef Name="CodigoUsuario" />
+          </Key>
+          <Property Name="CodigoUsuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NomeUsuario" Type="varchar" MaxLength="250" />
+          <Property Name="Email" Type="varchar" MaxLength="100" />
+          <Property Name="Sexo" Type="varchar" MaxLength="10" />
+          <Property Name="SenhaUsuario" Type="varchar" MaxLength="50" />
+          <Property Name="ConfSenha" Type="varchar" MaxLength="50" />
+          <Property Name="FotoUsuario" Type="image" />
+          <Property Name="DataNascUsua" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Consulta">
+          <Key>
+            <PropertyRef Name="CodigoConsulta" />
+          </Key>
+          <Property Name="FotoCons" Type="image" />
+          <Property Name="DescricaoCons" Type="varchar" MaxLength="300" />
+          <Property Name="CodigoConsulta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="LocalizacaoCons" Type="varchar" MaxLength="50" />
+          <Property Name="RuaCons" Type="varchar" MaxLength="100" />
+          <Property Name="BairroCons" Type="varchar" MaxLength="100" />
+          <Property Name="CidadeCons" Type="varchar" MaxLength="100" />
+          <Property Name="UfCons" Type="varchar" MaxLength="50" />
+          <Property Name="DataCons" Type="varchar" MaxLength="50" />
+          <Property Name="ValorCons" Type="varchar" MaxLength="50" />
+          <Property Name="FotoClienteCons" Type="image" />
+          <Property Name="DescricaoClienteCons" Type="varchar" MaxLength="300" />
+          <Property Name="TipoEventoCons" Type="varchar" MaxLength="50" />
+          <Property Name="DescricaoGeral" Type="varchar" MaxLength="300" />
+          <Property Name="Registro" Type="int" />
+        </EntityType>
+        <Association Name="FK_Consulta_CadastroFesta">
+          <End Role="CadastroFesta" Type="Self.CadastroFesta" Multiplicity="0..1" />
+          <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CadastroFesta">
+              <PropertyRef Name="CodigoFesta" />
+            </Principal>
+            <Dependent Role="Consulta">
+              <PropertyRef Name="Registro" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Consulta_CadastroHotel">
+          <End Role="CadastroHotel" Type="Self.CadastroHotel" Multiplicity="0..1" />
+          <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CadastroHotel">
+              <PropertyRef Name="CodigoHotel" />
+            </Principal>
+            <Dependent Role="Consulta">
+              <PropertyRef Name="Registro" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Consulta_CadastroJogo">
+          <End Role="CadastroJogo" Type="Self.CadastroJogo" Multiplicity="0..1" />
+          <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CadastroJogo">
+              <PropertyRef Name="CodigoJogo" />
+            </Principal>
+            <Dependent Role="Consulta">
+              <PropertyRef Name="Registro" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="tccModelStoreContainer">
+          <EntitySet Name="CadastroCliente" EntityType="Self.CadastroCliente" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CadastroFesta" EntityType="Self.CadastroFesta" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CadastroHotel" EntityType="Self.CadastroHotel" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CadastroJogo" EntityType="Self.CadastroJogo" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CadastroUsuario" EntityType="Self.CadastroUsuario" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Consulta" EntityType="Self.Consulta" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Consulta_CadastroFesta" Association="Self.FK_Consulta_CadastroFesta">
+            <End Role="CadastroFesta" EntitySet="CadastroFesta" />
+            <End Role="Consulta" EntitySet="Consulta" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Consulta_CadastroHotel" Association="Self.FK_Consulta_CadastroHotel">
+            <End Role="CadastroHotel" EntitySet="CadastroHotel" />
+            <End Role="Consulta" EntitySet="Consulta" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Consulta_CadastroJogo" Association="Self.FK_Consulta_CadastroJogo">
+            <End Role="CadastroJogo" EntitySet="CadastroJogo" />
+            <End Role="Consulta" EntitySet="Consulta" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="tccModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="CadastroCliente">
+          <Key>
+            <PropertyRef Name="CodigoCliente" />
+          </Key>
+          <Property Name="Nome" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="Cpf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Rua" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Bairro" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Cidade" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="TipoEvento" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Idade" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="Descricao" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="Sexo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="DataNasc" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Cnpj" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CodigoCliente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="EmailCliente" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="SenhaCliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ConfCliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Telefone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="CadastroFesta">
+          <Key>
+            <PropertyRef Name="CodigoFesta" />
+          </Key>
+          <Property Name="CodigoFesta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Fotof" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="Localizacaof" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Ruaf" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Bairrof" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Cidadef" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Uff" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Cepf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="NomeCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="Dataf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="DescricaoEvento" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="Valorf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Lotef" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="DescricaoCliente" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="ReferenciaF" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="TipoF" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Consulta" Relationship="Self.FK_Consulta_CadastroFesta" FromRole="CadastroFesta" ToRole="Consulta" />
+          <Property Name="Telefone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="CadastroHotel">
+          <Key>
+            <PropertyRef Name="CodigoHotel" />
+          </Key>
+          <Property Name="CodigoHotel" Type="Int32" Nullable="false" />
+          <Property Name="FotoHotel" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="Ruah" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Bairroh" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Cidadeh" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Ufh" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="DescricaoHotel" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="NomeCliente" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="DescricaoCliente" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="Categoria" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Valorh" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="LocalizacaoH" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="ReferenciaH" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Consulta" Relationship="Self.FK_Consulta_CadastroHotel" FromRole="CadastroHotel" ToRole="Consulta" />
+          <Property Name="Telefone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="CadastroJogo">
+          <Key>
+            <PropertyRef Name="CodigoJogo" />
+          </Key>
+          <Property Name="CodigoJogo" Type="Int32" Nullable="false" />
+          <Property Name="FotoJ" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="LocalizacaoJ" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="RuaJ" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Bairroj" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Cidadej" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Ufj" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="QtdPessoas" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Dataj" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="AddMembrosj" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="DescricaoJ" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="Valorj" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="AddObjeto" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="TipoJ" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Consulta" Relationship="Self.FK_Consulta_CadastroJogo" FromRole="CadastroJogo" ToRole="Consulta" />
+          <Property Name="Telefone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="CadastroUsuario">
+          <Key>
+            <PropertyRef Name="CodigoUsuario" />
+          </Key>
+          <Property Name="CodigoUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NomeUsuario" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Sexo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="SenhaUsuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ConfSenha" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FotoUsuario" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="DataNascUsua" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Consulta">
+          <Key>
+            <PropertyRef Name="CodigoConsulta" />
+          </Key>
+          <Property Name="FotoCons" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="DescricaoCons" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="CodigoConsulta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="LocalizacaoCons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="RuaCons" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="BairroCons" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="CidadeCons" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="UfCons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="DataCons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ValorCons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FotoClienteCons" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="DescricaoClienteCons" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="TipoEventoCons" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="DescricaoGeral" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="Registro" Type="Int32" />
+          <NavigationProperty Name="CadastroFesta" Relationship="Self.FK_Consulta_CadastroFesta" FromRole="Consulta" ToRole="CadastroFesta" />
+          <NavigationProperty Name="CadastroHotel" Relationship="Self.FK_Consulta_CadastroHotel" FromRole="Consulta" ToRole="CadastroHotel" />
+          <NavigationProperty Name="CadastroJogo" Relationship="Self.FK_Consulta_CadastroJogo" FromRole="Consulta" ToRole="CadastroJogo" />
+        </EntityType>
+        <Association Name="FK_Consulta_CadastroFesta">
+          <End Role="CadastroFesta" Type="Self.CadastroFesta" Multiplicity="0..1" />
+          <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CadastroFesta">
+              <PropertyRef Name="CodigoFesta" />
+            </Principal>
+            <Dependent Role="Consulta">
+              <PropertyRef Name="Registro" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Consulta_CadastroHotel">
+          <End Role="CadastroHotel" Type="Self.CadastroHotel" Multiplicity="0..1" />
+          <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CadastroHotel">
+              <PropertyRef Name="CodigoHotel" />
+            </Principal>
+            <Dependent Role="Consulta">
+              <PropertyRef Name="Registro" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Consulta_CadastroJogo">
+          <End Role="CadastroJogo" Type="Self.CadastroJogo" Multiplicity="0..1" />
+          <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CadastroJogo">
+              <PropertyRef Name="CodigoJogo" />
+            </Principal>
+            <Dependent Role="Consulta">
+              <PropertyRef Name="Registro" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="tccEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="CadastroCliente" EntityType="Self.CadastroCliente" />
+          <EntitySet Name="CadastroFesta" EntityType="Self.CadastroFesta" />
+          <EntitySet Name="CadastroHotel" EntityType="Self.CadastroHotel" />
+          <EntitySet Name="CadastroJogo" EntityType="Self.CadastroJogo" />
+          <EntitySet Name="CadastroUsuario" EntityType="Self.CadastroUsuario" />
+          <EntitySet Name="Consulta" EntityType="Self.Consulta" />
+          <AssociationSet Name="FK_Consulta_CadastroFesta" Association="Self.FK_Consulta_CadastroFesta">
+            <End Role="CadastroFesta" EntitySet="CadastroFesta" />
+            <End Role="Consulta" EntitySet="Consulta" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Consulta_CadastroHotel" Association="Self.FK_Consulta_CadastroHotel">
+            <End Role="CadastroHotel" EntitySet="CadastroHotel" />
+            <End Role="Consulta" EntitySet="Consulta" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Consulta_CadastroJogo" Association="Self.FK_Consulta_CadastroJogo">
+            <End Role="CadastroJogo" EntitySet="CadastroJogo" />
+            <End Role="Consulta" EntitySet="Consulta" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="tccModelStoreContainer" CdmEntityContainer="tccEntities">
+          <EntitySetMapping Name="CadastroCliente">
+            <EntityTypeMapping TypeName="tccModel.CadastroCliente">
+              <MappingFragment StoreEntitySet="CadastroCliente">
+                <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+                <ScalarProperty Name="Nome" ColumnName="Nome" />
+                <ScalarProperty Name="Cpf" ColumnName="Cpf" />
+                <ScalarProperty Name="Rua" ColumnName="Rua" />
+                <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+                <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+                <ScalarProperty Name="TipoEvento" ColumnName="TipoEvento" />
+                <ScalarProperty Name="Idade" ColumnName="Idade" />
+                <ScalarProperty Name="Foto" ColumnName="Foto" />
+                <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+                <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+                <ScalarProperty Name="DataNasc" ColumnName="DataNasc" />
+                <ScalarProperty Name="Cnpj" ColumnName="Cnpj" />
+                <ScalarProperty Name="CodigoCliente" ColumnName="CodigoCliente" />
+                <ScalarProperty Name="EmailCliente" ColumnName="EmailCliente" />
+                <ScalarProperty Name="SenhaCliente" ColumnName="SenhaCliente" />
+                <ScalarProperty Name="ConfCliente" ColumnName="ConfCliente" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CadastroFesta">
+            <EntityTypeMapping TypeName="tccModel.CadastroFesta">
+              <MappingFragment StoreEntitySet="CadastroFesta">
+                <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+                <ScalarProperty Name="CodigoFesta" ColumnName="CodigoFesta" />
+                <ScalarProperty Name="Fotof" ColumnName="Fotof" />
+                <ScalarProperty Name="Localizacaof" ColumnName="Localizacaof" />
+                <ScalarProperty Name="Ruaf" ColumnName="Ruaf" />
+                <ScalarProperty Name="Bairrof" ColumnName="Bairrof" />
+                <ScalarProperty Name="Cidadef" ColumnName="Cidadef" />
+                <ScalarProperty Name="Uff" ColumnName="Uff" />
+                <ScalarProperty Name="Cepf" ColumnName="Cepf" />
+                <ScalarProperty Name="NomeCliente" ColumnName="NomeCliente" />
+                <ScalarProperty Name="Dataf" ColumnName="Dataf" />
+                <ScalarProperty Name="DescricaoEvento" ColumnName="DescricaoEvento" />
+                <ScalarProperty Name="Valorf" ColumnName="Valorf" />
+                <ScalarProperty Name="Lotef" ColumnName="Lotef" />
+                <ScalarProperty Name="DescricaoCliente" ColumnName="DescricaoCliente" />
+                <ScalarProperty Name="ReferenciaF" ColumnName="ReferenciaF" />
+                <ScalarProperty Name="TipoF" ColumnName="TipoF" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CadastroHotel">
+            <EntityTypeMapping TypeName="tccModel.CadastroHotel">
+              <MappingFragment StoreEntitySet="CadastroHotel">
+                <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+                <ScalarProperty Name="CodigoHotel" ColumnName="CodigoHotel" />
+                <ScalarProperty Name="FotoHotel" ColumnName="FotoHotel" />
+                <ScalarProperty Name="Ruah" ColumnName="Ruah" />
+                <ScalarProperty Name="Bairroh" ColumnName="Bairroh" />
+                <ScalarProperty Name="Cidadeh" ColumnName="Cidadeh" />
+                <ScalarProperty Name="Ufh" ColumnName="Ufh" />
+                <ScalarProperty Name="DescricaoHotel" ColumnName="DescricaoHotel" />
+                <ScalarProperty Name="NomeCliente" ColumnName="NomeCliente" />
+                <ScalarProperty Name="DescricaoCliente" ColumnName="DescricaoCliente" />
+                <ScalarProperty Name="Categoria" ColumnName="Categoria" />
+                <ScalarProperty Name="Valorh" ColumnName="Valorh" />
+                <ScalarProperty Name="LocalizacaoH" ColumnName="LocalizacaoH" />
+                <ScalarProperty Name="ReferenciaH" ColumnName="ReferenciaH" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CadastroJogo">
+            <EntityTypeMapping TypeName="tccModel.CadastroJogo">
+              <MappingFragment StoreEntitySet="CadastroJogo">
+                <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+                <ScalarProperty Name="CodigoJogo" ColumnName="CodigoJogo" />
+                <ScalarProperty Name="FotoJ" ColumnName="FotoJ" />
+                <ScalarProperty Name="LocalizacaoJ" ColumnName="LocalizacaoJ" />
+                <ScalarProperty Name="RuaJ" ColumnName="RuaJ" />
+                <ScalarProperty Name="Bairroj" ColumnName="Bairroj" />
+                <ScalarProperty Name="Cidadej" ColumnName="Cidadej" />
+                <ScalarProperty Name="Ufj" ColumnName="Ufj" />
+                <ScalarProperty Name="QtdPessoas" ColumnName="QtdPessoas" />
+                <ScalarProperty Name="Dataj" ColumnName="Dataj" />
+                <ScalarProperty Name="AddMembrosj" ColumnName="AddMembrosj" />
+                <ScalarProperty Name="DescricaoJ" ColumnName="DescricaoJ" />
+                <ScalarProperty Name="Valorj" ColumnName="Valorj" />
+                <ScalarProperty Name="AddObjeto" ColumnName="AddObjeto" />
+                <ScalarProperty Name="TipoJ" ColumnName="TipoJ" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CadastroUsuario">
+            <EntityTypeMapping TypeName="tccModel.CadastroUsuario">
+              <MappingFragment StoreEntitySet="CadastroUsuario">
+                <ScalarProperty Name="CodigoUsuario" ColumnName="CodigoUsuario" />
+                <ScalarProperty Name="NomeUsuario" ColumnName="NomeUsuario" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+                <ScalarProperty Name="SenhaUsuario" ColumnName="SenhaUsuario" />
+                <ScalarProperty Name="ConfSenha" ColumnName="ConfSenha" />
+                <ScalarProperty Name="FotoUsuario" ColumnName="FotoUsuario" />
+                <ScalarProperty Name="DataNascUsua" ColumnName="DataNascUsua" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Consulta">
+            <EntityTypeMapping TypeName="tccModel.Consulta">
+              <MappingFragment StoreEntitySet="Consulta">
+                <ScalarProperty Name="FotoCons" ColumnName="FotoCons" />
+                <ScalarProperty Name="DescricaoCons" ColumnName="DescricaoCons" />
+                <ScalarProperty Name="CodigoConsulta" ColumnName="CodigoConsulta" />
+                <ScalarProperty Name="LocalizacaoCons" ColumnName="LocalizacaoCons" />
+                <ScalarProperty Name="RuaCons" ColumnName="RuaCons" />
+                <ScalarProperty Name="BairroCons" ColumnName="BairroCons" />
+                <ScalarProperty Name="CidadeCons" ColumnName="CidadeCons" />
+                <ScalarProperty Name="UfCons" ColumnName="UfCons" />
+                <ScalarProperty Name="DataCons" ColumnName="DataCons" />
+                <ScalarProperty Name="ValorCons" ColumnName="ValorCons" />
+                <ScalarProperty Name="FotoClienteCons" ColumnName="FotoClienteCons" />
+                <ScalarProperty Name="DescricaoClienteCons" ColumnName="DescricaoClienteCons" />
+                <ScalarProperty Name="TipoEventoCons" ColumnName="TipoEventoCons" />
+                <ScalarProperty Name="DescricaoGeral" ColumnName="DescricaoGeral" />
+                <ScalarProperty Name="Registro" ColumnName="Registro" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6720E03-FD6F-448F-9FB8-8F63FA164A62}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>APK.DESKTOP.VIEW</RootNamespace>
+    <AssemblyName>APK.DESKTOP.VIEW</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCliente.Designer.cs">
+      <DependentUpon>FrmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\Ccliente.cs" />
+    <Compile Include="Control\Cfesta.cs" />
+    <Compile Include="Control\Chotel.cs" />
+    <Compile Include="Control\Cjogo.cs" />
+    <Compile Include="Control\Cusuario.cs" />
+    <Compile Include="FrmFesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFesta.Designer.cs">
+      <DependentUpon>FrmFesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHotel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHotel.Designer.cs">
+      <DependentUpon>FrmHotel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJogo.Designer.cs">
+      <DependentUpon>FrmJogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMaps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMaps.Designer.cs">
+      <DependentUpon>FrmMaps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tccDataSetClient1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tccDataSetClient1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tccDataSetFest.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tccDataSetFest.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tccDataSetHotell1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tccDataSetHotell1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tccDataSetJogos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tccDataSetJogos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tccDataSetUsuario.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tccDataSetUsuario.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmCliente.resx">
+      <DependentUpon>FrmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFesta.resx">
+      <DependentUpon>FrmFesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHotel.resx">
+      <DependentUpon>FrmHotel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJogo.resx">
+      <DependentUpon>FrmJogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMaps.resx">
+      <DependentUpon>FrmMaps.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.Config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="tccDataSetClient1.xsc">
+      <DependentUpon>tccDataSetClient1.xsd</DependentUpon>
+    </None>
+    <None Include="tccDataSetClient1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tccDataSetClient1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tccDataSetClient1.xss">
+      <DependentUpon>tccDataSetClient1.xsd</DependentUpon>
+    </None>
+    <None Include="tccDataSetFest.xsc">
+      <DependentUpon>tccDataSetFest.xsd</DependentUpon>
+    </None>
+    <None Include="tccDataSetFest.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tccDataSetFest.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tccDataSetFest.xss">
+      <DependentUpon>tccDataSetFest.xsd</DependentUpon>
+    </None>
+    <None Include="tccDataSetHotell1.xsc">
+      <DependentUpon>tccDataSetHotell1.xsd</DependentUpon>
+    </None>
+    <None Include="tccDataSetHotell1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tccDataSetHotell1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tccDataSetHotell1.xss">
+      <DependentUpon>tccDataSetHotell1.xsd</DependentUpon>
+    </None>
+    <None Include="tccDataSetJogos.xsc">
+      <DependentUpon>tccDataSetJogos.xsd</DependentUpon>
+    </None>
+    <None Include="tccDataSetJogos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tccDataSetJogos.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tccDataSetJogos.xss">
+      <DependentUpon>tccDataSetJogos.xsd</DependentUpon>
+    </None>
+    <None Include="tccDataSetUsuario.xsc">
+      <DependentUpon>tccDataSetUsuario.xsd</DependentUpon>
+    </None>
+    <None Include="tccDataSetUsuario.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tccDataSetUsuario.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tccDataSetUsuario.xss">
+      <DependentUpon>tccDataSetUsuario.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onda-azul-elegante-em-fundo-transparente_1055-2682.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\APK.DESKTOP.MODEL\APK.DESKTOP.MODEL.csproj">
+      <Project>{d26c50c8-b4e4-4e97-812c-6ce76ca8d47a}</Project>
+      <Name>APK.DESKTOP.MODEL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capturar.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

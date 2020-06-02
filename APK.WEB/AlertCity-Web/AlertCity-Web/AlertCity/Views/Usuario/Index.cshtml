@@ -1,0 +1,77 @@
+﻿@model AlertCity.Models.Usuario
+
+@if(ViewBag.Mensagem==null)
+{
+    ViewBag.Mensagem = "";
+}
+
+<body background="~/Imagem/Fundo.jpg" style="animation-delay:initial;">
+
+    @using (Html.BeginForm("Salvar", "Usuario", FormMethod.Post, new { @class = "form-horizontal", @role = "form", @enctype = "multipart/form-data", @id = "FrmUsuario" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="container">
+                <h1>Cadastrar - Usuário</h1>
+                <hr />
+                <div class="col-md-12">
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.appNome, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.appNome, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.appNome, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.appSenha, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.appSenha, new { htmlAttributes = new { @class = "form-control", Type = "password" } })
+                        @Html.ValidationMessageFor(model => model.appSenha, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.appConfirmar, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.appConfirmar, new { htmlAttributes = new { @class = "form-control", Type = "password" } })
+                        @Html.ValidationMessageFor(model => model.appConfirmar, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.appEmail, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.appEmail, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.appEmail, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.appCelular, htmlAttributes: new { @class = "control-label" })
+                        @Html.EditorFor(model => model.appCelular, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.appCelular, "", new { @class = "text-danger" })
+                        <br />
+                        <input type="submit" value="Salvar" class="btn btn-default" />
+                        <br />
+                        <br />
+                        @Html.ActionLink("Voltar ao Login", "LIndex", "Login")
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div class="table">
+        @{ Html.RenderPartial("Detalhes", @Model.SelecionarUsuarios());}
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+  
+            @if(ViewBag.Mensagem!="")
+            {
+                <script>
+                    alert(@ViewBag.Mensagem);
+                </script>
+            }
+    }
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</body>

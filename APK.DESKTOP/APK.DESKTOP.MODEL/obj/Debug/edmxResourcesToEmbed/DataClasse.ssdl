@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tccModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CadastroCliente">
+    <Key>
+      <PropertyRef Name="CodigoCliente" />
+    </Key>
+    <Property Name="Nome" Type="varchar" MaxLength="250" />
+    <Property Name="Cpf" Type="varchar" MaxLength="50" />
+    <Property Name="Rua" Type="varchar" MaxLength="100" />
+    <Property Name="Bairro" Type="varchar" MaxLength="100" />
+    <Property Name="Cidade" Type="varchar" MaxLength="100" />
+    <Property Name="TipoEvento" Type="varchar" MaxLength="50" />
+    <Property Name="Idade" Type="varchar" MaxLength="10" />
+    <Property Name="Foto" Type="image" />
+    <Property Name="Descricao" Type="varchar" MaxLength="300" />
+    <Property Name="Sexo" Type="varchar" MaxLength="10" />
+    <Property Name="DataNasc" Type="varchar" MaxLength="20" />
+    <Property Name="Cnpj" Type="varchar" MaxLength="50" />
+    <Property Name="CodigoCliente" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EmailCliente" Type="varchar" MaxLength="100" />
+    <Property Name="SenhaCliente" Type="varchar" MaxLength="50" />
+    <Property Name="ConfCliente" Type="varchar" MaxLength="50" />
+    <Property Name="Telefone" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="CadastroFesta">
+    <Key>
+      <PropertyRef Name="CodigoFesta" />
+    </Key>
+    <Property Name="CodigoFesta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Fotof" Type="image" />
+    <Property Name="Localizacaof" Type="varchar" MaxLength="50" />
+    <Property Name="Ruaf" Type="varchar" MaxLength="100" />
+    <Property Name="Bairrof" Type="varchar" MaxLength="100" />
+    <Property Name="Cidadef" Type="varchar" MaxLength="100" />
+    <Property Name="Uff" Type="varchar" MaxLength="50" />
+    <Property Name="Cepf" Type="varchar" MaxLength="50" />
+    <Property Name="NomeCliente" Type="varchar" MaxLength="250" />
+    <Property Name="Dataf" Type="varchar" MaxLength="50" />
+    <Property Name="DescricaoEvento" Type="varchar" MaxLength="300" />
+    <Property Name="Valorf" Type="varchar" MaxLength="50" />
+    <Property Name="Lotef" Type="varchar" MaxLength="10" />
+    <Property Name="DescricaoCliente" Type="varchar" MaxLength="300" />
+    <Property Name="ReferenciaF" Type="varchar" MaxLength="100" />
+    <Property Name="TipoF" Type="varchar" MaxLength="20" />
+    <Property Name="Telefone" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="CadastroHotel">
+    <Key>
+      <PropertyRef Name="CodigoHotel" />
+    </Key>
+    <Property Name="CodigoHotel" Type="int" Nullable="false" />
+    <Property Name="FotoHotel" Type="image" />
+    <Property Name="Ruah" Type="varchar" MaxLength="100" />
+    <Property Name="Bairroh" Type="varchar" MaxLength="100" />
+    <Property Name="Cidadeh" Type="varchar" MaxLength="100" />
+    <Property Name="Ufh" Type="varchar" MaxLength="50" />
+    <Property Name="DescricaoHotel" Type="varchar" MaxLength="300" />
+    <Property Name="NomeCliente" Type="varchar" MaxLength="250" />
+    <Property Name="DescricaoCliente" Type="varchar" MaxLength="300" />
+    <Property Name="Categoria" Type="varchar" MaxLength="50" />
+    <Property Name="Valorh" Type="varchar" MaxLength="50" />
+    <Property Name="LocalizacaoH" Type="varchar" MaxLength="100" />
+    <Property Name="ReferenciaH" Type="varchar" MaxLength="100" />
+    <Property Name="Telefone" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="CadastroJogo">
+    <Key>
+      <PropertyRef Name="CodigoJogo" />
+    </Key>
+    <Property Name="CodigoJogo" Type="int" Nullable="false" />
+    <Property Name="FotoJ" Type="image" />
+    <Property Name="LocalizacaoJ" Type="varchar" MaxLength="100" />
+    <Property Name="RuaJ" Type="varchar" MaxLength="100" />
+    <Property Name="Bairroj" Type="varchar" MaxLength="100" />
+    <Property Name="Cidadej" Type="varchar" MaxLength="100" />
+    <Property Name="Ufj" Type="varchar" MaxLength="50" />
+    <Property Name="QtdPessoas" Type="varchar" MaxLength="50" />
+    <Property Name="Dataj" Type="varchar" MaxLength="50" />
+    <Property Name="AddMembrosj" Type="varchar" MaxLength="50" />
+    <Property Name="DescricaoJ" Type="varchar" MaxLength="300" />
+    <Property Name="Valorj" Type="varchar" MaxLength="50" />
+    <Property Name="AddObjeto" Type="varchar" MaxLength="100" />
+    <Property Name="TipoJ" Type="varchar" MaxLength="20" />
+    <Property Name="Telefone" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="CadastroUsuario">
+    <Key>
+      <PropertyRef Name="CodigoUsuario" />
+    </Key>
+    <Property Name="CodigoUsuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NomeUsuario" Type="varchar" MaxLength="250" />
+    <Property Name="Email" Type="varchar" MaxLength="100" />
+    <Property Name="Sexo" Type="varchar" MaxLength="10" />
+    <Property Name="SenhaUsuario" Type="varchar" MaxLength="50" />
+    <Property Name="ConfSenha" Type="varchar" MaxLength="50" />
+    <Property Name="FotoUsuario" Type="image" />
+    <Property Name="DataNascUsua" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Consulta">
+    <Key>
+      <PropertyRef Name="CodigoConsulta" />
+    </Key>
+    <Property Name="FotoCons" Type="image" />
+    <Property Name="DescricaoCons" Type="varchar" MaxLength="300" />
+    <Property Name="CodigoConsulta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LocalizacaoCons" Type="varchar" MaxLength="50" />
+    <Property Name="RuaCons" Type="varchar" MaxLength="100" />
+    <Property Name="BairroCons" Type="varchar" MaxLength="100" />
+    <Property Name="CidadeCons" Type="varchar" MaxLength="100" />
+    <Property Name="UfCons" Type="varchar" MaxLength="50" />
+    <Property Name="DataCons" Type="varchar" MaxLength="50" />
+    <Property Name="ValorCons" Type="varchar" MaxLength="50" />
+    <Property Name="FotoClienteCons" Type="image" />
+    <Property Name="DescricaoClienteCons" Type="varchar" MaxLength="300" />
+    <Property Name="TipoEventoCons" Type="varchar" MaxLength="50" />
+    <Property Name="DescricaoGeral" Type="varchar" MaxLength="300" />
+    <Property Name="Registro" Type="int" />
+  </EntityType>
+  <Association Name="FK_Consulta_CadastroFesta">
+    <End Role="CadastroFesta" Type="Self.CadastroFesta" Multiplicity="0..1" />
+    <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CadastroFesta">
+        <PropertyRef Name="CodigoFesta" />
+      </Principal>
+      <Dependent Role="Consulta">
+        <PropertyRef Name="Registro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Consulta_CadastroHotel">
+    <End Role="CadastroHotel" Type="Self.CadastroHotel" Multiplicity="0..1" />
+    <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CadastroHotel">
+        <PropertyRef Name="CodigoHotel" />
+      </Principal>
+      <Dependent Role="Consulta">
+        <PropertyRef Name="Registro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Consulta_CadastroJogo">
+    <End Role="CadastroJogo" Type="Self.CadastroJogo" Multiplicity="0..1" />
+    <End Role="Consulta" Type="Self.Consulta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CadastroJogo">
+        <PropertyRef Name="CodigoJogo" />
+      </Principal>
+      <Dependent Role="Consulta">
+        <PropertyRef Name="Registro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="tccModelStoreContainer">
+    <EntitySet Name="CadastroCliente" EntityType="Self.CadastroCliente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CadastroFesta" EntityType="Self.CadastroFesta" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CadastroHotel" EntityType="Self.CadastroHotel" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CadastroJogo" EntityType="Self.CadastroJogo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CadastroUsuario" EntityType="Self.CadastroUsuario" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Consulta" EntityType="Self.Consulta" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Consulta_CadastroFesta" Association="Self.FK_Consulta_CadastroFesta">
+      <End Role="CadastroFesta" EntitySet="CadastroFesta" />
+      <End Role="Consulta" EntitySet="Consulta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Consulta_CadastroHotel" Association="Self.FK_Consulta_CadastroHotel">
+      <End Role="CadastroHotel" EntitySet="CadastroHotel" />
+      <End Role="Consulta" EntitySet="Consulta" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Consulta_CadastroJogo" Association="Self.FK_Consulta_CadastroJogo">
+      <End Role="CadastroJogo" EntitySet="CadastroJogo" />
+      <End Role="Consulta" EntitySet="Consulta" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

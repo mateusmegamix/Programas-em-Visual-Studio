@@ -1,0 +1,17 @@
+C:\_C#\GuesstheWordGame\JogoForca\JogoForca\bin\Debug\GuessTheWord.exe.config
+C:\_C#\GuesstheWordGame\JogoForca\JogoForca\obj\x86\Debug\GuessTheWord.exe
+C:\_C#\GuesstheWordGame\JogoForca\JogoForca\obj\x86\Debug\GuessTheWord.pdb
+C:\_C#\GuesstheWordGame\JogoForca\JogoForca\bin\Debug\GuessTheWord.exe
+C:\_C#\GuesstheWordGame\JogoForca\JogoForca\bin\Debug\GuessTheWord.pdb
+C:\_C#\GuesstheWordGame\JogoForca\JogoForca\obj\x86\Debug\GuessTheWord.Form1.resources
+C:\_C#\GuesstheWordGame\JogoForca\JogoForca\obj\x86\Debug\GuessTheWord.Properties.Resources.resources
+C:\_C#\GuesstheWordGame\JogoForca\JogoForca\obj\x86\Debug\AdivinhaPalavra.csproj.GenerateResource.Cache
+C:\Users\Mateus\Downloads\JogoForca\bin\Debug\GuessTheWord.exe.config
+C:\Users\Mateus\Downloads\JogoForca\bin\Debug\GuessTheWord.exe
+C:\Users\Mateus\Downloads\JogoForca\bin\Debug\GuessTheWord.pdb
+C:\Users\Mateus\Downloads\JogoForca\obj\x86\Debug\AdivinhaPalavra.csprojAssemblyReference.cache
+C:\Users\Mateus\Downloads\JogoForca\obj\x86\Debug\GuessTheWord.Properties.Resources.resources
+C:\Users\Mateus\Downloads\JogoForca\obj\x86\Debug\AdivinhaPalavra.csproj.GenerateResource.cache
+C:\Users\Mateus\Downloads\JogoForca\obj\x86\Debug\GuessTheWord.exe
+C:\Users\Mateus\Downloads\JogoForca\obj\x86\Debug\GuessTheWord.pdb
+C:\Users\Mateus\Downloads\JogoForca\obj\x86\Debug\GuessTheWord.Forca.resources

@@ -1,0 +1,23 @@
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\bin\Debug\SICOP.CONTROLLER.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\bin\Debug\SICOP.CONTROLLER.pdb
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\bin\Debug\SICOP.MODEL.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\bin\Debug\System.Data.SQLite.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\bin\Debug\SICOP.MODEL.pdb
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\bin\Debug\SICOP.MODEL.dll.config
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\bin\Debug\System.Data.SQLite.xml
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\obj\Debug\SICOP.CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\obj\Debug\SICOP.CONTROLLER.dll
+C:\Users\Estagiario 2\Documents\Visual Studio 2017\Projects\PORTARIA\SICOP.CONTROLLER\obj\Debug\SICOP.CONTROLLER.pdb
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\bin\Debug\SICOP.CONTROLLER.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\bin\Debug\SICOP.CONTROLLER.pdb
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\bin\Debug\SICOP.MODEL.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\bin\Debug\System.Data.SQLite.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\bin\Debug\SICOP.MODEL.pdb
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\bin\Debug\SICOP.MODEL.dll.config
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\bin\Debug\System.Data.SQLite.xml
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\bin\Debug\System.Data.SQLite.dll.config
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\obj\Debug\SICOP.CONTROLLER.csprojAssemblyReference.cache
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\obj\Debug\SICOP.CONTROLLER.csproj.CopyComplete
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\obj\Debug\SICOP.CONTROLLER.dll
+F:\Mateus\Estagiario\PORTARIA\SICOP.CONTROLLER\obj\Debug\SICOP.CONTROLLER.pdb

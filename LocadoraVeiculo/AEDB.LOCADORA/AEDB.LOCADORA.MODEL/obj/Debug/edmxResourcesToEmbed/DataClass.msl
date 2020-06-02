@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="danielgomesModelStoreContainer" CdmEntityContainer="danielgomesEntities">
+    <EntitySetMapping Name="Clientee">
+      <EntityTypeMapping TypeName="danielgomesModel.Clientee">
+        <MappingFragment StoreEntitySet="Clientee">
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Cpf" ColumnName="Cpf" />
+          <ScalarProperty Name="Endereco" ColumnName="Endereco" />
+          <ScalarProperty Name="Tel" ColumnName="Tel" />
+          <ScalarProperty Name="DataNasc" ColumnName="DataNasc" />
+          <ScalarProperty Name="CodCli" ColumnName="CodCli" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Funcionario">
+      <EntityTypeMapping TypeName="danielgomesModel.Funcionario">
+        <MappingFragment StoreEntitySet="Funcionario">
+          <ScalarProperty Name="NomeFunc" ColumnName="NomeFunc" />
+          <ScalarProperty Name="CodFunc" ColumnName="CodFunc" />
+          <ScalarProperty Name="CpfFunc" ColumnName="CpfFunc" />
+          <ScalarProperty Name="NascFunc" ColumnName="NascFunc" />
+          <ScalarProperty Name="TelFunc" ColumnName="TelFunc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Locacao">
+      <EntityTypeMapping TypeName="danielgomesModel.Locacao">
+        <MappingFragment StoreEntitySet="Locacao">
+          <ScalarProperty Name="QtdDia" ColumnName="QtdDia" />
+          <ScalarProperty Name="ValorTotal" ColumnName="ValorTotal" />
+          <ScalarProperty Name="Comissao" ColumnName="Comissao" />
+          <ScalarProperty Name="CodC" ColumnName="CodC" />
+          <ScalarProperty Name="CodV" ColumnName="CodV" />
+          <ScalarProperty Name="CodLoc" ColumnName="CodLoc" />
+          <ScalarProperty Name="CodF" ColumnName="CodF" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Veiculo">
+      <EntityTypeMapping TypeName="danielgomesModel.Veiculo">
+        <MappingFragment StoreEntitySet="Veiculo">
+          <ScalarProperty Name="Modelo" ColumnName="Modelo" />
+          <ScalarProperty Name="Placa" ColumnName="Placa" />
+          <ScalarProperty Name="Cor" ColumnName="Cor" />
+          <ScalarProperty Name="Ano" ColumnName="Ano" />
+          <ScalarProperty Name="CodVeiculo" ColumnName="CodVeiculo" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

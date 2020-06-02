@@ -1,0 +1,606 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="alextheodoroModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="appCadastroUsuario">
+          <Key>
+            <PropertyRef Name="appLogin" />
+          </Key>
+          <Property Name="appLogin" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="appNome" Type="varchar" MaxLength="250" Nullable="false" />
+          <Property Name="appSenha" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="appConfirmar" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="appEmail" Type="varchar" MaxLength="200" Nullable="false" />
+          <Property Name="appCelular" Type="varchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="appLogin">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Login" Type="int" Nullable="false" />
+          <Property Name="Senha" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Email" Type="varchar" MaxLength="200" Nullable="false" />
+        </EntityType>
+        <EntityType Name="BuracoReg">
+          <Key>
+            <PropertyRef Name="RegistroBuraco" />
+          </Key>
+          <Property Name="RegistroBuraco" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FotoBur" Type="image" />
+          <Property Name="DescricaoBur" Type="varchar" MaxLength="200" Nullable="false" />
+          <Property Name="RuaBur" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="CidadeBur" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="BairroBur" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="DataBuracoBur" Type="date" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ConsultaRegistros01">
+          <Key>
+            <PropertyRef Name="RegistroID" />
+          </Key>
+          <Property Name="Registros" Type="int" Nullable="false" />
+          <Property Name="RegistroID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Rua" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Cidade" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Bairro" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Data" Type="date" Nullable="false" />
+          <Property Name="Imagem" Type="image" />
+          <Property Name="Descricao" Type="varchar" MaxLength="200" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Evento">
+          <Key>
+            <PropertyRef Name="RegistroEvento" />
+          </Key>
+          <Property Name="RegistroEvento" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Localizacaof" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Ruaf" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Bairrof" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Cidadef" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Uff" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Cepf" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Dataf" Type="date" Nullable="false" />
+          <Property Name="DescricaoEvento" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Valorf" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="TipoF" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Telefone" Type="varchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="FocosReg">
+          <Key>
+            <PropertyRef Name="RegistroFocos" />
+          </Key>
+          <Property Name="RegistroFocos" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FotoFoc" Type="image" />
+          <Property Name="DataFocos" Type="date" Nullable="false" />
+          <Property Name="RuaFoc" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="CidadeFoc" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="BairroFoc" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="DescricaoFoc" Type="varchar" MaxLength="200" Nullable="false" />
+        </EntityType>
+        <EntityType Name="IntoxicacaoReg">
+          <Key>
+            <PropertyRef Name="RegistroIntoxicacao" />
+          </Key>
+          <Property Name="RegistroIntoxicacao" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FotoInt" Type="image" />
+          <Property Name="DataInt" Type="date" Nullable="false" />
+          <Property Name="RuaInt" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="CidadeInt" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="BairroInt" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="DescricaoInt" Type="varchar" MaxLength="200" Nullable="false" />
+        </EntityType>
+        <EntityType Name="VazamentoReg">
+          <Key>
+            <PropertyRef Name="RegistroVazamento" />
+          </Key>
+          <Property Name="RegistroVazamento" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FotoVaz" Type="image" />
+          <Property Name="DataVazamento" Type="date" Nullable="false" />
+          <Property Name="CidadeVaz" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="BairroVaz" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="RuaVaz" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="DescricaoVaz" Type="varchar" MaxLength="200" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ViolenciaReg">
+          <Key>
+            <PropertyRef Name="RegistroViolencia" />
+          </Key>
+          <Property Name="RegistroViolencia" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FotoVio" Type="image" />
+          <Property Name="DataViolencia" Type="date" Nullable="false" />
+          <Property Name="RuaVio" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="CidadeVio" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="BairroVio" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="DescricaoVio" Type="varchar" MaxLength="200" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_appLogin_appCadastroUsuario">
+          <End Role="appCadastroUsuario" Type="Self.appCadastroUsuario" Multiplicity="1" />
+          <End Role="appLogin" Type="Self.appLogin" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="appCadastroUsuario">
+              <PropertyRef Name="appLogin" />
+            </Principal>
+            <Dependent Role="appLogin">
+              <PropertyRef Name="Login" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConsultaRegistros01_BuracoReg1">
+          <End Role="BuracoReg" Type="Self.BuracoReg" Multiplicity="1" />
+          <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="BuracoReg">
+              <PropertyRef Name="RegistroBuraco" />
+            </Principal>
+            <Dependent Role="ConsultaRegistros01">
+              <PropertyRef Name="Registros" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConsultaRegistros01_FocosReg1">
+          <End Role="FocosReg" Type="Self.FocosReg" Multiplicity="1" />
+          <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="FocosReg">
+              <PropertyRef Name="RegistroFocos" />
+            </Principal>
+            <Dependent Role="ConsultaRegistros01">
+              <PropertyRef Name="Registros" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConsultaRegistros01_IntoxicacaoReg">
+          <End Role="IntoxicacaoReg" Type="Self.IntoxicacaoReg" Multiplicity="1" />
+          <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="IntoxicacaoReg">
+              <PropertyRef Name="RegistroIntoxicacao" />
+            </Principal>
+            <Dependent Role="ConsultaRegistros01">
+              <PropertyRef Name="Registros" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConsultaRegistros01_VazamentoReg1">
+          <End Role="VazamentoReg" Type="Self.VazamentoReg" Multiplicity="1" />
+          <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="VazamentoReg">
+              <PropertyRef Name="RegistroVazamento" />
+            </Principal>
+            <Dependent Role="ConsultaRegistros01">
+              <PropertyRef Name="Registros" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConsultaRegistros01_ViolenciaReg">
+          <End Role="ViolenciaReg" Type="Self.ViolenciaReg" Multiplicity="1" />
+          <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ViolenciaReg">
+              <PropertyRef Name="RegistroViolencia" />
+            </Principal>
+            <Dependent Role="ConsultaRegistros01">
+              <PropertyRef Name="Registros" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="alextheodoroModelStoreContainer">
+          <EntitySet Name="appCadastroUsuario" EntityType="Self.appCadastroUsuario" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="appLogin" EntityType="Self.appLogin" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="BuracoReg" EntityType="Self.BuracoReg" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ConsultaRegistros01" EntityType="Self.ConsultaRegistros01" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Evento" EntityType="Self.Evento" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="FocosReg" EntityType="Self.FocosReg" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="IntoxicacaoReg" EntityType="Self.IntoxicacaoReg" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="VazamentoReg" EntityType="Self.VazamentoReg" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ViolenciaReg" EntityType="Self.ViolenciaReg" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_appLogin_appCadastroUsuario" Association="Self.FK_appLogin_appCadastroUsuario">
+            <End Role="appCadastroUsuario" EntitySet="appCadastroUsuario" />
+            <End Role="appLogin" EntitySet="appLogin" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConsultaRegistros01_BuracoReg1" Association="Self.FK_ConsultaRegistros01_BuracoReg1">
+            <End Role="BuracoReg" EntitySet="BuracoReg" />
+            <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConsultaRegistros01_FocosReg1" Association="Self.FK_ConsultaRegistros01_FocosReg1">
+            <End Role="FocosReg" EntitySet="FocosReg" />
+            <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConsultaRegistros01_IntoxicacaoReg" Association="Self.FK_ConsultaRegistros01_IntoxicacaoReg">
+            <End Role="IntoxicacaoReg" EntitySet="IntoxicacaoReg" />
+            <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConsultaRegistros01_VazamentoReg1" Association="Self.FK_ConsultaRegistros01_VazamentoReg1">
+            <End Role="VazamentoReg" EntitySet="VazamentoReg" />
+            <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConsultaRegistros01_ViolenciaReg" Association="Self.FK_ConsultaRegistros01_ViolenciaReg">
+            <End Role="ViolenciaReg" EntitySet="ViolenciaReg" />
+            <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="alextheodoroModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="appCadastroUsuario">
+          <Key>
+            <PropertyRef Name="appLogin" />
+          </Key>
+          <Property Name="appLogin" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="appNome" Type="String" MaxLength="250" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="appSenha" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="appConfirmar" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="appEmail" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="appCelular" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="appLogin1" Relationship="Self.FK_appLogin_appCadastroUsuario" FromRole="appCadastroUsuario" ToRole="appLogin" />
+        </EntityType>
+        <EntityType Name="appLogin">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Login" Type="Int32" Nullable="false" />
+          <Property Name="Senha" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="appCadastroUsuario" Relationship="Self.FK_appLogin_appCadastroUsuario" FromRole="appLogin" ToRole="appCadastroUsuario" />
+        </EntityType>
+        <EntityType Name="BuracoReg">
+          <Key>
+            <PropertyRef Name="RegistroBuraco" />
+          </Key>
+          <Property Name="RegistroBuraco" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FotoBur" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="true" />
+          <Property Name="DescricaoBur" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="RuaBur" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="CidadeBur" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="BairroBur" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="DataBuracoBur" Type="DateTime" Nullable="false" Precision="0" />
+          <NavigationProperty Name="ConsultaRegistros01" Relationship="Self.FK_ConsultaRegistros01_BuracoReg1" FromRole="BuracoReg" ToRole="ConsultaRegistros01" />
+        </EntityType>
+        <EntityType Name="ConsultaRegistros01">
+          <Key>
+            <PropertyRef Name="RegistroID" />
+          </Key>
+          <Property Name="Registros" Type="Int32" Nullable="false" />
+          <Property Name="RegistroID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Rua" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Cidade" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Bairro" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Data" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Imagem" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="Descricao" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="BuracoReg" Relationship="Self.FK_ConsultaRegistros01_BuracoReg1" FromRole="ConsultaRegistros01" ToRole="BuracoReg" />
+          <NavigationProperty Name="FocosReg" Relationship="Self.FK_ConsultaRegistros01_FocosReg1" FromRole="ConsultaRegistros01" ToRole="FocosReg" />
+          <NavigationProperty Name="IntoxicacaoReg" Relationship="Self.FK_ConsultaRegistros01_IntoxicacaoReg" FromRole="ConsultaRegistros01" ToRole="IntoxicacaoReg" />
+          <NavigationProperty Name="VazamentoReg" Relationship="Self.FK_ConsultaRegistros01_VazamentoReg1" FromRole="ConsultaRegistros01" ToRole="VazamentoReg" />
+          <NavigationProperty Name="ViolenciaReg" Relationship="Self.FK_ConsultaRegistros01_ViolenciaReg" FromRole="ConsultaRegistros01" ToRole="ViolenciaReg" />
+        </EntityType>
+        <EntityType Name="FocosReg">
+          <Key>
+            <PropertyRef Name="RegistroFocos" />
+          </Key>
+          <Property Name="RegistroFocos" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FotoFoc" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="DataFocos" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="RuaFoc" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="CidadeFoc" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="BairroFoc" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="DescricaoFoc" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="ConsultaRegistros01" Relationship="Self.FK_ConsultaRegistros01_FocosReg1" FromRole="FocosReg" ToRole="ConsultaRegistros01" />
+        </EntityType>
+        <EntityType Name="IntoxicacaoReg">
+          <Key>
+            <PropertyRef Name="RegistroIntoxicacao" />
+          </Key>
+          <Property Name="RegistroIntoxicacao" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FotoInt" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="DataInt" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="RuaInt" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="CidadeInt" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="BairroInt" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="DescricaoInt" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="ConsultaRegistros01" Relationship="Self.FK_ConsultaRegistros01_IntoxicacaoReg" FromRole="IntoxicacaoReg" ToRole="ConsultaRegistros01" />
+        </EntityType>
+        <EntityType Name="VazamentoReg">
+          <Key>
+            <PropertyRef Name="RegistroVazamento" />
+          </Key>
+          <Property Name="RegistroVazamento" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FotoVaz" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="DataVazamento" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="CidadeVaz" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="BairroVaz" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="RuaVaz" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="DescricaoVaz" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="ConsultaRegistros01" Relationship="Self.FK_ConsultaRegistros01_VazamentoReg1" FromRole="VazamentoReg" ToRole="ConsultaRegistros01" />
+        </EntityType>
+        <EntityType Name="ViolenciaReg">
+          <Key>
+            <PropertyRef Name="RegistroViolencia" />
+          </Key>
+          <Property Name="RegistroViolencia" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FotoVio" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="DataViolencia" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="RuaVio" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="CidadeVio" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="BairroVio" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="DescricaoVio" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="ConsultaRegistros01" Relationship="Self.FK_ConsultaRegistros01_ViolenciaReg" FromRole="ViolenciaReg" ToRole="ConsultaRegistros01" />
+        </EntityType>
+        <Association Name="FK_appLogin_appCadastroUsuario">
+          <End Role="appCadastroUsuario" Type="Self.appCadastroUsuario" Multiplicity="1" />
+          <End Role="appLogin" Type="Self.appLogin" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="appCadastroUsuario">
+              <PropertyRef Name="appLogin" />
+            </Principal>
+            <Dependent Role="appLogin">
+              <PropertyRef Name="Login" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConsultaRegistros01_BuracoReg1">
+          <End Role="BuracoReg" Type="Self.BuracoReg" Multiplicity="1" />
+          <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="BuracoReg">
+              <PropertyRef Name="RegistroBuraco" />
+            </Principal>
+            <Dependent Role="ConsultaRegistros01">
+              <PropertyRef Name="Registros" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConsultaRegistros01_FocosReg1">
+          <End Role="FocosReg" Type="Self.FocosReg" Multiplicity="1" />
+          <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="FocosReg">
+              <PropertyRef Name="RegistroFocos" />
+            </Principal>
+            <Dependent Role="ConsultaRegistros01">
+              <PropertyRef Name="Registros" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConsultaRegistros01_IntoxicacaoReg">
+          <End Role="IntoxicacaoReg" Type="Self.IntoxicacaoReg" Multiplicity="1" />
+          <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="IntoxicacaoReg">
+              <PropertyRef Name="RegistroIntoxicacao" />
+            </Principal>
+            <Dependent Role="ConsultaRegistros01">
+              <PropertyRef Name="Registros" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConsultaRegistros01_VazamentoReg1">
+          <End Role="VazamentoReg" Type="Self.VazamentoReg" Multiplicity="1" />
+          <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="VazamentoReg">
+              <PropertyRef Name="RegistroVazamento" />
+            </Principal>
+            <Dependent Role="ConsultaRegistros01">
+              <PropertyRef Name="Registros" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ConsultaRegistros01_ViolenciaReg">
+          <End Role="ViolenciaReg" Type="Self.ViolenciaReg" Multiplicity="1" />
+          <End Role="ConsultaRegistros01" Type="Self.ConsultaRegistros01" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ViolenciaReg">
+              <PropertyRef Name="RegistroViolencia" />
+            </Principal>
+            <Dependent Role="ConsultaRegistros01">
+              <PropertyRef Name="Registros" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="alextheodoroEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="appCadastroUsuario" EntityType="Self.appCadastroUsuario" />
+          <EntitySet Name="appLogin" EntityType="Self.appLogin" />
+          <EntitySet Name="BuracoReg" EntityType="Self.BuracoReg" />
+          <EntitySet Name="ConsultaRegistros01" EntityType="Self.ConsultaRegistros01" />
+          <EntitySet Name="FocosReg" EntityType="Self.FocosReg" />
+          <EntitySet Name="IntoxicacaoReg" EntityType="Self.IntoxicacaoReg" />
+          <EntitySet Name="VazamentoReg" EntityType="Self.VazamentoReg" />
+          <EntitySet Name="ViolenciaReg" EntityType="Self.ViolenciaReg" />
+          <AssociationSet Name="FK_appLogin_appCadastroUsuario" Association="Self.FK_appLogin_appCadastroUsuario">
+            <End Role="appCadastroUsuario" EntitySet="appCadastroUsuario" />
+            <End Role="appLogin" EntitySet="appLogin" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConsultaRegistros01_BuracoReg1" Association="Self.FK_ConsultaRegistros01_BuracoReg1">
+            <End Role="BuracoReg" EntitySet="BuracoReg" />
+            <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConsultaRegistros01_FocosReg1" Association="Self.FK_ConsultaRegistros01_FocosReg1">
+            <End Role="FocosReg" EntitySet="FocosReg" />
+            <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConsultaRegistros01_IntoxicacaoReg" Association="Self.FK_ConsultaRegistros01_IntoxicacaoReg">
+            <End Role="IntoxicacaoReg" EntitySet="IntoxicacaoReg" />
+            <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConsultaRegistros01_VazamentoReg1" Association="Self.FK_ConsultaRegistros01_VazamentoReg1">
+            <End Role="VazamentoReg" EntitySet="VazamentoReg" />
+            <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ConsultaRegistros01_ViolenciaReg" Association="Self.FK_ConsultaRegistros01_ViolenciaReg">
+            <End Role="ViolenciaReg" EntitySet="ViolenciaReg" />
+            <End Role="ConsultaRegistros01" EntitySet="ConsultaRegistros01" />
+          </AssociationSet>
+          <EntitySet Name="Evento" EntityType="alextheodoroModel.Evento" />
+        </EntityContainer>
+        <EntityType Name="Evento">
+          <Key>
+            <PropertyRef Name="RegistroEvento" />
+          </Key>
+          <Property Name="RegistroEvento" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Localizacaof" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Ruaf" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Bairrof" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Cidadef" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Uff" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Cepf" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Dataf" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="DescricaoEvento" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Valorf" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="TipoF" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Telefone" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="alextheodoroModelStoreContainer" CdmEntityContainer="alextheodoroEntities">
+          <EntitySetMapping Name="appCadastroUsuario">
+            <EntityTypeMapping TypeName="alextheodoroModel.appCadastroUsuario">
+              <MappingFragment StoreEntitySet="appCadastroUsuario">
+                <ScalarProperty Name="appLogin" ColumnName="appLogin" />
+                <ScalarProperty Name="appNome" ColumnName="appNome" />
+                <ScalarProperty Name="appSenha" ColumnName="appSenha" />
+                <ScalarProperty Name="appConfirmar" ColumnName="appConfirmar" />
+                <ScalarProperty Name="appEmail" ColumnName="appEmail" />
+                <ScalarProperty Name="appCelular" ColumnName="appCelular" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="appLogin">
+            <EntityTypeMapping TypeName="alextheodoroModel.appLogin">
+              <MappingFragment StoreEntitySet="appLogin">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Login" ColumnName="Login" />
+                <ScalarProperty Name="Senha" ColumnName="Senha" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="BuracoReg">
+            <EntityTypeMapping TypeName="alextheodoroModel.BuracoReg">
+              <MappingFragment StoreEntitySet="BuracoReg">
+                <ScalarProperty Name="RegistroBuraco" ColumnName="RegistroBuraco" />
+                <ScalarProperty Name="FotoBur" ColumnName="FotoBur" />
+                <ScalarProperty Name="DescricaoBur" ColumnName="DescricaoBur" />
+                <ScalarProperty Name="RuaBur" ColumnName="RuaBur" />
+                <ScalarProperty Name="CidadeBur" ColumnName="CidadeBur" />
+                <ScalarProperty Name="BairroBur" ColumnName="BairroBur" />
+                <ScalarProperty Name="DataBuracoBur" ColumnName="DataBuracoBur" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ConsultaRegistros01">
+            <EntityTypeMapping TypeName="alextheodoroModel.ConsultaRegistros01">
+              <MappingFragment StoreEntitySet="ConsultaRegistros01">
+                <ScalarProperty Name="Registros" ColumnName="Registros" />
+                <ScalarProperty Name="RegistroID" ColumnName="RegistroID" />
+                <ScalarProperty Name="Rua" ColumnName="Rua" />
+                <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+                <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+                <ScalarProperty Name="Data" ColumnName="Data" />
+                <ScalarProperty Name="Imagem" ColumnName="Imagem" />
+                <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="FocosReg">
+            <EntityTypeMapping TypeName="alextheodoroModel.FocosReg">
+              <MappingFragment StoreEntitySet="FocosReg">
+                <ScalarProperty Name="RegistroFocos" ColumnName="RegistroFocos" />
+                <ScalarProperty Name="FotoFoc" ColumnName="FotoFoc" />
+                <ScalarProperty Name="DataFocos" ColumnName="DataFocos" />
+                <ScalarProperty Name="RuaFoc" ColumnName="RuaFoc" />
+                <ScalarProperty Name="CidadeFoc" ColumnName="CidadeFoc" />
+                <ScalarProperty Name="BairroFoc" ColumnName="BairroFoc" />
+                <ScalarProperty Name="DescricaoFoc" ColumnName="DescricaoFoc" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="IntoxicacaoReg">
+            <EntityTypeMapping TypeName="alextheodoroModel.IntoxicacaoReg">
+              <MappingFragment StoreEntitySet="IntoxicacaoReg">
+                <ScalarProperty Name="RegistroIntoxicacao" ColumnName="RegistroIntoxicacao" />
+                <ScalarProperty Name="FotoInt" ColumnName="FotoInt" />
+                <ScalarProperty Name="DataInt" ColumnName="DataInt" />
+                <ScalarProperty Name="RuaInt" ColumnName="RuaInt" />
+                <ScalarProperty Name="CidadeInt" ColumnName="CidadeInt" />
+                <ScalarProperty Name="BairroInt" ColumnName="BairroInt" />
+                <ScalarProperty Name="DescricaoInt" ColumnName="DescricaoInt" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="VazamentoReg">
+            <EntityTypeMapping TypeName="alextheodoroModel.VazamentoReg">
+              <MappingFragment StoreEntitySet="VazamentoReg">
+                <ScalarProperty Name="RegistroVazamento" ColumnName="RegistroVazamento" />
+                <ScalarProperty Name="FotoVaz" ColumnName="FotoVaz" />
+                <ScalarProperty Name="DataVazamento" ColumnName="DataVazamento" />
+                <ScalarProperty Name="CidadeVaz" ColumnName="CidadeVaz" />
+                <ScalarProperty Name="BairroVaz" ColumnName="BairroVaz" />
+                <ScalarProperty Name="RuaVaz" ColumnName="RuaVaz" />
+                <ScalarProperty Name="DescricaoVaz" ColumnName="DescricaoVaz" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ViolenciaReg">
+            <EntityTypeMapping TypeName="alextheodoroModel.ViolenciaReg">
+              <MappingFragment StoreEntitySet="ViolenciaReg">
+                <ScalarProperty Name="RegistroViolencia" ColumnName="RegistroViolencia" />
+                <ScalarProperty Name="FotoVio" ColumnName="FotoVio" />
+                <ScalarProperty Name="DataViolencia" ColumnName="DataViolencia" />
+                <ScalarProperty Name="RuaVio" ColumnName="RuaVio" />
+                <ScalarProperty Name="CidadeVio" ColumnName="CidadeVio" />
+                <ScalarProperty Name="BairroVio" ColumnName="BairroVio" />
+                <ScalarProperty Name="DescricaoVio" ColumnName="DescricaoVio" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Evento">
+            <EntityTypeMapping TypeName="alextheodoroModel.Evento">
+              <MappingFragment StoreEntitySet="Evento">
+                <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+                <ScalarProperty Name="TipoF" ColumnName="TipoF" />
+                <ScalarProperty Name="Valorf" ColumnName="Valorf" />
+                <ScalarProperty Name="DescricaoEvento" ColumnName="DescricaoEvento" />
+                <ScalarProperty Name="Dataf" ColumnName="Dataf" />
+                <ScalarProperty Name="Cepf" ColumnName="Cepf" />
+                <ScalarProperty Name="Uff" ColumnName="Uff" />
+                <ScalarProperty Name="Cidadef" ColumnName="Cidadef" />
+                <ScalarProperty Name="Bairrof" ColumnName="Bairrof" />
+                <ScalarProperty Name="Ruaf" ColumnName="Ruaf" />
+                <ScalarProperty Name="Localizacaof" ColumnName="Localizacaof" />
+                <ScalarProperty Name="RegistroEvento" ColumnName="RegistroEvento" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuiminvestModelStoreContainer" CdmEntityContainer="reatorEntities">
+    <EntitySetMapping Name="controle">
+      <EntityTypeMapping TypeName="QuiminvestModel.controle">
+        <MappingFragment StoreEntitySet="controle">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Etapa" ColumnName="Etapa" />
+          <ScalarProperty Name="Hora" ColumnName="Hora" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+          <ScalarProperty Name="VolDestilado" ColumnName="VolDestilado" />
+          <ScalarProperty Name="Caldeira" ColumnName="Caldeira" />
+          <ScalarProperty Name="Reator" ColumnName="Reator" />
+          <ScalarProperty Name="Fluido" ColumnName="Fluido" />
+          <ScalarProperty Name="PressaoMmHg" ColumnName="PressaoMmHg" />
+          <ScalarProperty Name="AgitacaoRpm" ColumnName="AgitacaoRpm" />
+          <ScalarProperty Name="AmperagemA" ColumnName="AmperagemA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CtrlNotasFiscais">
+      <EntityTypeMapping TypeName="QuiminvestModel.CtrlNotasFiscais">
+        <MappingFragment StoreEntitySet="CtrlNotasFiscais">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fornecedor" ColumnName="Fornecedor" />
+          <ScalarProperty Name="Produto" ColumnName="Produto" />
+          <ScalarProperty Name="Entrega" ColumnName="Entrega" />
+          <ScalarProperty Name="Recebido" ColumnName="Recebido" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+          <ScalarProperty Name="Hora" ColumnName="Hora" />
+          <ScalarProperty Name="NumeroNF" ColumnName="NumeroNF" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EntradaSaida">
+      <EntityTypeMapping TypeName="QuiminvestModel.EntradaSaida">
+        <MappingFragment StoreEntitySet="EntradaSaida">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Funcionario" ColumnName="Funcionario" />
+          <ScalarProperty Name="Veiculo" ColumnName="Veiculo" />
+          <ScalarProperty Name="Placa" ColumnName="Placa" />
+          <ScalarProperty Name="HoraEntrada" ColumnName="HoraEntrada" />
+          <ScalarProperty Name="HoraSaida" ColumnName="HoraSaida" />
+          <ScalarProperty Name="KmEntrada" ColumnName="KmEntrada" />
+          <ScalarProperty Name="KmSaida" ColumnName="KmSaida" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+          <ScalarProperty Name="Destino" ColumnName="Destino" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="funcionario">
+      <EntityTypeMapping TypeName="QuiminvestModel.funcionario">
+        <MappingFragment StoreEntitySet="funcionario">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Cargo" ColumnName="Cargo" />
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="Descricao" ColumnName="Descricao" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Senha" ColumnName="Senha" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+          <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+          <ScalarProperty Name="Rua" ColumnName="Rua" />
+          <ScalarProperty Name="Cpf" ColumnName="Cpf" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="DataNasc" ColumnName="DataNasc" />
+          <ScalarProperty Name="Uf" ColumnName="Uf" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
